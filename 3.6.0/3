@@ -1,1 +1,1550 @@
-{"league":{"id":130,"name":"UEFA Champions League","name_ar":"\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627","image":"723a68de3e915644d253a31929e71a13.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/league\/723a68de3e915644d253a31929e71a13.png"},"standing":[[{"stage_id":10051027,"group":"Group A","round":4,"category_id":589,"league_id":130,"position":1,"status":"same","recent_form":"WWLW","team_id":537,"overall_gp":4,"overall_w":3,"overall_d":0,"overall_l":1,"overall_gs":15,"overall_ga":7,"home_gp":2,"home_w":2,"home_d":0,"home_l":0,"home_gs":10,"home_ga":4,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":5,"away_ga":3,"total_gd":8,"total_p":9,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Manchester City","name_ar":"\u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u0633\u064a\u062a\u064a","id":537,"image":"537.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/537.png"},"category":{"id":589,"name":"Group A","name_ar":"Group A","is_cup":0}},{"stage_id":10051027,"group":"Group A","round":4,"category_id":589,"league_id":130,"position":2,"status":"same","recent_form":"DWWD","team_id":950,"overall_gp":4,"overall_w":2,"overall_d":2,"overall_l":0,"overall_gs":8,"overall_ga":5,"home_gp":2,"home_w":2,"home_d":0,"home_l":0,"home_gs":5,"home_ga":2,"away_gp":2,"away_w":0,"away_d":2,"away_l":0,"away_gs":3,"away_ga":3,"total_gd":3,"total_p":8,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Paris SG","name_ar":"\u0628\u0627\u0631\u064a\u0633 \u0633\u0627\u0646 \u062c\u064a\u0631\u0645\u0627\u0646","id":950,"image":"950.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/950.png"},"category":{"id":589,"name":"Group A","name_ar":"Group A","is_cup":0}},{"stage_id":10051027,"group":"Group A","round":4,"category_id":589,"league_id":130,"position":3,"status":"same","recent_form":"LLWD","team_id":120,"overall_gp":4,"overall_w":1,"overall_d":1,"overall_l":2,"overall_gs":5,"overall_ga":11,"home_gp":2,"home_w":0,"home_d":1,"home_l":1,"home_gs":2,"home_ga":6,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":3,"away_ga":5,"total_gd":-6,"total_p":4,"description":"Promotion - Europa League (Round of 32)","created_at":null,"updated_at":null,"team":{"name":"Club Brugge KV","name_ar":"\u0643\u0644\u0648\u0628 \u0628\u0631\u0648\u062c","id":120,"image":"120.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/120.png"},"category":{"id":589,"name":"Group A","name_ar":"Group A","is_cup":0}},{"stage_id":10051027,"group":"Group A","round":4,"category_id":589,"league_id":130,"position":4,"status":"same","recent_form":"DLLL","team_id":2627,"overall_gp":4,"overall_w":0,"overall_d":1,"overall_l":3,"overall_gs":8,"overall_ga":13,"home_gp":2,"home_w":0,"home_d":1,"home_l":1,"home_gs":3,"home_ga":4,"away_gp":2,"away_w":0,"away_d":0,"away_l":2,"away_gs":5,"away_ga":9,"total_gd":-5,"total_p":1,"description":"","created_at":null,"updated_at":null,"team":{"name":"RB Leipzig","name_ar":"\u0644\u0627\u064a\u0628\u0632\u064a\u062c","id":2627,"image":"2627.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2627.png"},"category":{"id":589,"name":"Group A","name_ar":"Group A","is_cup":0}}],[{"stage_id":10051027,"group":"Group B","round":4,"category_id":590,"league_id":130,"position":1,"status":"same","recent_form":"WWWW","team_id":535,"overall_gp":4,"overall_w":4,"overall_d":0,"overall_l":0,"overall_gs":13,"overall_ga":5,"home_gp":2,"home_w":2,"home_d":0,"home_l":0,"home_gs":5,"home_ga":2,"away_gp":2,"away_w":2,"away_d":0,"away_l":0,"away_gs":8,"away_ga":3,"total_gd":8,"total_p":12,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Liverpool","name_ar":"\u0644\u064a\u0641\u0631\u0628\u0648\u0644","id":535,"image":"535.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/535.png"},"category":{"id":590,"name":"Group B","name_ar":"Group B","is_cup":0}},{"stage_id":10051027,"group":"Group B","round":4,"category_id":590,"league_id":130,"position":2,"status":"same","recent_form":"DWLD","team_id":5314,"overall_gp":4,"overall_w":1,"overall_d":2,"overall_l":1,"overall_gs":3,"overall_ga":6,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":2,"home_ga":5,"away_gp":2,"away_w":0,"away_d":2,"away_l":0,"away_gs":1,"away_ga":1,"total_gd":-3,"total_p":5,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"FC Porto","name_ar":"\u0628\u0648\u0631\u062a\u0648","id":5314,"image":"5314.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5314.png"},"category":{"id":590,"name":"Group B","name_ar":"Group B","is_cup":0}},{"stage_id":10051027,"group":"Group B","round":4,"category_id":590,"league_id":130,"position":3,"status":"same","recent_form":"LLWD","team_id":4041,"overall_gp":4,"overall_w":1,"overall_d":1,"overall_l":2,"overall_gs":4,"overall_ga":6,"home_gp":2,"home_w":0,"home_d":1,"home_l":1,"home_gs":2,"home_ga":3,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":2,"away_ga":3,"total_gd":-2,"total_p":4,"description":"Promotion - Europa League (Round of 32)","created_at":null,"updated_at":null,"team":{"name":"Atl. Madrid","name_ar":"\u0623\u062a\u0644\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f","id":4041,"image":"4041.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4041.png"},"category":{"id":590,"name":"Group B","name_ar":"Group B","is_cup":0}},{"stage_id":10051027,"group":"Group B","round":4,"category_id":590,"league_id":130,"position":4,"status":"same","recent_form":"DLLL","team_id":4060,"overall_gp":4,"overall_w":0,"overall_d":1,"overall_l":3,"overall_gs":4,"overall_ga":7,"home_gp":2,"home_w":0,"home_d":1,"home_l":1,"home_gs":2,"home_ga":3,"away_gp":2,"away_w":0,"away_d":0,"away_l":2,"away_gs":2,"away_ga":4,"total_gd":-3,"total_p":1,"description":"","created_at":null,"updated_at":null,"team":{"name":"AC Milan","name_ar":"\u0645\u064a\u0644\u0627\u0646","id":4060,"image":"4060.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4060.png"},"category":{"id":590,"name":"Group B","name_ar":"Group B","is_cup":0}}],[{"stage_id":10051027,"group":"Group C","round":4,"category_id":591,"league_id":130,"position":1,"status":"same","recent_form":"WWWW","team_id":2829,"overall_gp":4,"overall_w":4,"overall_d":0,"overall_l":0,"overall_gs":14,"overall_ga":2,"home_gp":2,"home_w":2,"home_d":0,"home_l":0,"home_gs":6,"home_ga":0,"away_gp":2,"away_w":2,"away_d":0,"away_l":0,"away_gs":8,"away_ga":2,"total_gd":12,"total_p":12,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Ajax","name_ar":"\u0623\u064a\u0627\u0643\u0633","id":2829,"image":"2829.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2829.png"},"category":{"id":591,"name":"Group C","name_ar":"Group C","is_cup":0}},{"stage_id":10051027,"group":"Group C","round":4,"category_id":591,"league_id":130,"position":2,"status":"same","recent_form":"LLWW","team_id":2643,"overall_gp":4,"overall_w":2,"overall_d":0,"overall_l":2,"overall_gs":4,"overall_ga":8,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":2,"home_ga":3,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":2,"away_ga":5,"total_gd":-4,"total_p":6,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Borussia Dortmund","name_ar":"\u0628\u0648\u0631\u0648\u0633\u064a\u0627 \u062f\u0648\u0631\u062a\u0645\u0648\u0646\u062f","id":2643,"image":"2643.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2643.png"},"category":{"id":591,"name":"Group C","name_ar":"Group C","is_cup":0}},{"stage_id":10051027,"group":"Group C","round":4,"category_id":591,"league_id":130,"position":3,"status":"same","recent_form":"WWLL","team_id":415,"overall_gp":4,"overall_w":2,"overall_d":0,"overall_l":2,"overall_gs":9,"overall_ga":7,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":5,"home_ga":5,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":4,"away_ga":2,"total_gd":2,"total_p":6,"description":"Promotion - Europa League (Round of 32)","created_at":null,"updated_at":null,"team":{"name":"Sporting","name_ar":"\u0633\u0628\u0648\u0631\u062a\u064a\u0646\u062c \u0644\u0634\u0628\u0648\u0646\u0629","id":415,"image":"415.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/415.png"},"category":{"id":591,"name":"Group C","name_ar":"Group C","is_cup":0}},{"stage_id":10051027,"group":"Group C","round":4,"category_id":591,"league_id":130,"position":4,"status":"same","recent_form":"LLLL","team_id":127,"overall_gp":4,"overall_w":0,"overall_d":0,"overall_l":4,"overall_gs":2,"overall_ga":12,"home_gp":2,"home_w":0,"home_d":0,"home_l":2,"home_gs":2,"home_ga":6,"away_gp":2,"away_w":0,"away_d":0,"away_l":2,"away_gs":0,"away_ga":6,"total_gd":-10,"total_p":0,"description":"","created_at":null,"updated_at":null,"team":{"name":"Besiktas","name_ar":"\u0628\u0634\u0643\u062a\u0627\u0634","id":127,"image":"127.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/127.png"},"category":{"id":591,"name":"Group C","name_ar":"Group C","is_cup":0}}],[{"stage_id":10051027,"group":"Group D","round":4,"category_id":592,"league_id":130,"position":1,"status":"same","recent_form":"WWLW","team_id":5321,"overall_gp":4,"overall_w":3,"overall_d":0,"overall_l":1,"overall_gs":9,"overall_ga":3,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":3,"home_ga":3,"away_gp":2,"away_w":2,"away_d":0,"away_l":0,"away_gs":6,"away_ga":0,"total_gd":6,"total_p":9,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Real Madrid","name_ar":"\u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f","id":5321,"image":"5321.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5321.png"},"category":{"id":592,"name":"Group D","name_ar":"Group D","is_cup":0}},{"stage_id":10051027,"group":"Group D","round":4,"category_id":592,"league_id":130,"position":2,"status":"same","recent_form":"WWDL","team_id":5311,"overall_gp":4,"overall_w":2,"overall_d":1,"overall_l":1,"overall_gs":6,"overall_ga":3,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":3,"home_ga":2,"away_gp":2,"away_w":1,"away_d":1,"away_l":0,"away_gs":3,"away_ga":1,"total_gd":3,"total_p":7,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Inter","name_ar":"\u0627\u0646\u062a\u0631 \u0645\u064a\u0644\u0627\u0646","id":5311,"image":"5311.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5311.png"},"category":{"id":592,"name":"Group D","name_ar":"Group D","is_cup":0}},{"stage_id":10051027,"group":"Group D","round":4,"category_id":592,"league_id":130,"position":3,"status":"same","recent_form":"LLWW","team_id":2807,"overall_gp":4,"overall_w":2,"overall_d":0,"overall_l":2,"overall_gs":6,"overall_ga":7,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":3,"home_ga":3,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":3,"away_ga":4,"total_gd":-1,"total_p":6,"description":"Promotion - Europa League (Round of 32)","created_at":null,"updated_at":null,"team":{"name":"Sheriff Tiraspol","name_ar":"\u0634\u064a\u0631\u064a\u0641 \u062a\u064a\u0631\u0627\u0633\u0628\u0648\u0644","id":2807,"image":"2807.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2807.png"},"category":{"id":592,"name":"Group D","name_ar":"Group D","is_cup":0}},{"stage_id":10051027,"group":"Group D","round":4,"category_id":592,"league_id":130,"position":4,"status":"same","recent_form":"LLDL","team_id":3352,"overall_gp":4,"overall_w":0,"overall_d":1,"overall_l":3,"overall_gs":1,"overall_ga":9,"home_gp":2,"home_w":0,"home_d":1,"home_l":1,"home_gs":0,"home_ga":5,"away_gp":2,"away_w":0,"away_d":0,"away_l":2,"away_gs":1,"away_ga":4,"total_gd":-8,"total_p":1,"description":"","created_at":null,"updated_at":null,"team":{"name":"Shakhtar Donetsk","name_ar":"\u0634\u0627\u062e\u062a\u0627\u0631 \u062f\u0648\u0646\u064a\u062a\u0633\u0643","id":3352,"image":"3352.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3352.png"},"category":{"id":592,"name":"Group D","name_ar":"Group D","is_cup":0}}],[{"stage_id":10051027,"group":"Group E","round":4,"category_id":593,"league_id":130,"position":1,"status":"same","recent_form":"WWWW","team_id":5313,"overall_gp":4,"overall_w":4,"overall_d":0,"overall_l":0,"overall_gs":17,"overall_ga":2,"home_gp":2,"home_w":2,"home_d":0,"home_l":0,"home_gs":10,"home_ga":2,"away_gp":2,"away_w":2,"away_d":0,"away_l":0,"away_gs":7,"away_ga":0,"total_gd":15,"total_p":12,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Bayern Munich","name_ar":"\u0628\u0627\u064a\u0631\u0646 \u0645\u064a\u0648\u0646\u064a\u062e","id":5313,"image":"5313.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5313.png"},"category":{"id":593,"name":"Group E","name_ar":"Group E","is_cup":0}},{"stage_id":10051027,"group":"Group E","round":4,"category_id":593,"league_id":130,"position":2,"status":"same","recent_form":"WWLL","team_id":4028,"overall_gp":4,"overall_w":2,"overall_d":0,"overall_l":2,"overall_gs":2,"overall_ga":6,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":1,"home_ga":3,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":1,"away_ga":3,"total_gd":-4,"total_p":6,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Barcelona","name_ar":"\u0628\u0631\u0634\u0644\u0648\u0646\u0629","id":4028,"image":"4028.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4028.png"},"category":{"id":593,"name":"Group E","name_ar":"Group E","is_cup":0}},{"stage_id":10051027,"group":"Group E","round":4,"category_id":593,"league_id":130,"position":3,"status":"same","recent_form":"LLWD","team_id":3004,"overall_gp":4,"overall_w":1,"overall_d":1,"overall_l":2,"overall_gs":5,"overall_ga":9,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":3,"home_ga":4,"away_gp":2,"away_w":0,"away_d":1,"away_l":1,"away_gs":2,"away_ga":5,"total_gd":-4,"total_p":4,"description":"Promotion - Europa League (Round of 32)","created_at":null,"updated_at":null,"team":{"name":"Benfica","name_ar":"\u0628\u0646\u0641\u064a\u0643\u0627","id":3004,"image":"3004.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3004.png"},"category":{"id":593,"name":"Group E","name_ar":"Group E","is_cup":0}},{"stage_id":10051027,"group":"Group E","round":4,"category_id":593,"league_id":130,"position":4,"status":"same","recent_form":"LLLD","team_id":4001,"overall_gp":4,"overall_w":0,"overall_d":1,"overall_l":3,"overall_gs":0,"overall_ga":7,"home_gp":2,"home_w":0,"home_d":1,"home_l":1,"home_gs":0,"home_ga":1,"away_gp":2,"away_w":0,"away_d":0,"away_l":2,"away_gs":0,"away_ga":6,"total_gd":-7,"total_p":1,"description":"","created_at":null,"updated_at":null,"team":{"name":"Dyn. Kyiv","name_ar":"\u062f\u064a\u0646\u0627\u0645\u0648 \u0643\u064a\u064a\u0641","id":4001,"image":"4001.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4001.png"},"category":{"id":593,"name":"Group E","name_ar":"Group E","is_cup":0}}],[{"stage_id":10051027,"group":"Group F","round":4,"category_id":594,"league_id":130,"position":1,"status":"same","recent_form":"DWWL","team_id":544,"overall_gp":4,"overall_w":2,"overall_d":1,"overall_l":1,"overall_gs":8,"overall_ga":7,"home_gp":2,"home_w":2,"home_d":0,"home_l":0,"home_gs":5,"home_ga":3,"away_gp":2,"away_w":0,"away_d":1,"away_l":1,"away_gs":3,"away_ga":4,"total_gd":1,"total_p":7,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Manchester Utd","name_ar":"\u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u064a\u0648\u0646\u0627\u064a\u062a\u062f","id":544,"image":"544.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/544.png"},"category":{"id":594,"name":"Group F","name_ar":"Group F","is_cup":0}},{"stage_id":10051027,"group":"Group F","round":4,"category_id":594,"league_id":130,"position":2,"status":"same","recent_form":"WWLD","team_id":1104,"overall_gp":4,"overall_w":2,"overall_d":1,"overall_l":1,"overall_gs":9,"overall_ga":5,"home_gp":2,"home_w":1,"home_d":1,"home_l":0,"home_gs":4,"home_ga":2,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":5,"away_ga":3,"total_gd":4,"total_p":7,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Villarreal","name_ar":"\u0641\u064a\u0627\u0631\u064a\u0627\u0644","id":1104,"image":"1104.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1104.png"},"category":{"id":594,"name":"Group F","name_ar":"Group F","is_cup":0}},{"stage_id":10051027,"group":"Group F","round":4,"category_id":594,"league_id":130,"position":3,"status":"same","recent_form":"DLWD","team_id":1056,"overall_gp":4,"overall_w":1,"overall_d":2,"overall_l":1,"overall_gs":7,"overall_ga":7,"home_gp":2,"home_w":1,"home_d":1,"home_l":0,"home_gs":3,"home_ga":2,"away_gp":2,"away_w":0,"away_d":1,"away_l":1,"away_gs":4,"away_ga":5,"total_gd":0,"total_p":5,"description":"Promotion - Europa League (Round of 32)","created_at":null,"updated_at":null,"team":{"name":"Atalanta","name_ar":"\u0623\u062a\u0644\u0627\u0646\u062a\u0627","id":1056,"image":"1056.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1056.png"},"category":{"id":594,"name":"Group F","name_ar":"Group F","is_cup":0}},{"stage_id":10051027,"group":"Group F","round":4,"category_id":594,"league_id":130,"position":4,"status":"same","recent_form":"LLLW","team_id":3324,"overall_gp":4,"overall_w":1,"overall_d":0,"overall_l":3,"overall_gs":3,"overall_ga":8,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":3,"home_ga":5,"away_gp":2,"away_w":0,"away_d":0,"away_l":2,"away_gs":0,"away_ga":3,"total_gd":-5,"total_p":3,"description":"","created_at":null,"updated_at":null,"team":{"name":"Young Boys","name_ar":"\u064a\u0648\u0646\u062c \u0628\u0648\u064a\u0632","id":3324,"image":"3324.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3324.png"},"category":{"id":594,"name":"Group F","name_ar":"Group F","is_cup":0}}],[{"stage_id":10051027,"group":"Group G","round":4,"category_id":595,"league_id":130,"position":1,"status":"same","recent_form":"LWWD","team_id":1460,"overall_gp":4,"overall_w":2,"overall_d":1,"overall_l":1,"overall_gs":7,"overall_ga":5,"home_gp":2,"home_w":2,"home_d":0,"home_l":0,"home_gs":5,"home_ga":2,"away_gp":2,"away_w":0,"away_d":1,"away_l":1,"away_gs":2,"away_ga":3,"total_gd":2,"total_p":7,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Salzburg","name_ar":"\u0631\u064a\u062f \u0628\u0648\u0644 \u0633\u0627\u0644\u0632\u0628\u0648\u0631\u063a","id":1460,"image":"1460.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1460.png"},"category":{"id":595,"name":"Group G","name_ar":"Group G","is_cup":0}},{"stage_id":10051027,"group":"Group G","round":4,"category_id":595,"league_id":130,"position":2,"status":"same","recent_form":"WDLD","team_id":4605,"overall_gp":4,"overall_w":1,"overall_d":2,"overall_l":1,"overall_gs":3,"overall_ga":3,"home_gp":2,"home_w":0,"home_d":2,"home_l":0,"home_gs":0,"home_ga":0,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":3,"away_ga":3,"total_gd":0,"total_p":5,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Lille","name_ar":"\u0644\u064a\u0644","id":4605,"image":"4605.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4605.png"},"category":{"id":595,"name":"Group G","name_ar":"Group G","is_cup":0}},{"stage_id":10051027,"group":"Group G","round":4,"category_id":595,"league_id":130,"position":3,"status":"same","recent_form":"WLDD","team_id":5671,"overall_gp":4,"overall_w":1,"overall_d":2,"overall_l":1,"overall_gs":4,"overall_ga":5,"home_gp":2,"home_w":1,"home_d":1,"home_l":0,"home_gs":3,"home_ga":2,"away_gp":2,"away_w":0,"away_d":1,"away_l":1,"away_gs":1,"away_ga":3,"total_gd":-1,"total_p":5,"description":"Promotion - Europa League (Round of 32)","created_at":null,"updated_at":null,"team":{"name":"Wolfsburg","name_ar":"\u0641\u0648\u0644\u0641\u0633\u0628\u0648\u0631\u062c","id":5671,"image":"5671.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5671.png"},"category":{"id":595,"name":"Group G","name_ar":"Group G","is_cup":0}},{"stage_id":10051027,"group":"Group G","round":4,"category_id":595,"league_id":130,"position":4,"status":"same","recent_form":"LDDD","team_id":1023,"overall_gp":4,"overall_w":0,"overall_d":3,"overall_l":1,"overall_gs":3,"overall_ga":4,"home_gp":2,"home_w":0,"home_d":1,"home_l":1,"home_gs":2,"home_ga":3,"away_gp":2,"away_w":0,"away_d":2,"away_l":0,"away_gs":1,"away_ga":1,"total_gd":-1,"total_p":3,"description":"","created_at":null,"updated_at":null,"team":{"name":"Sevilla","name_ar":"\u0625\u0634\u0628\u064a\u0644\u064a\u0629","id":1023,"image":"1023.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1023.png"},"category":{"id":595,"name":"Group G","name_ar":"Group G","is_cup":0}}],[{"stage_id":10051027,"group":"Group H","round":4,"category_id":596,"league_id":130,"position":1,"status":"same","recent_form":"WWWW","team_id":5312,"overall_gp":4,"overall_w":4,"overall_d":0,"overall_l":0,"overall_gs":9,"overall_ga":2,"home_gp":2,"home_w":2,"home_d":0,"home_l":0,"home_gs":5,"home_ga":2,"away_gp":2,"away_w":2,"away_d":0,"away_l":0,"away_gs":4,"away_ga":0,"total_gd":7,"total_p":12,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Juventus","name_ar":"\u064a\u0648\u0641\u0646\u062a\u0648\u0633","id":5312,"image":"5312.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5312.png"},"category":{"id":596,"name":"Group H","name_ar":"Group H","is_cup":0}},{"stage_id":10051027,"group":"Group H","round":4,"category_id":596,"league_id":130,"position":2,"status":"same","recent_form":"WWLW","team_id":529,"overall_gp":4,"overall_w":3,"overall_d":0,"overall_l":1,"overall_gs":6,"overall_ga":1,"home_gp":2,"home_w":2,"home_d":0,"home_l":0,"home_gs":5,"home_ga":0,"away_gp":2,"away_w":1,"away_d":0,"away_l":1,"away_gs":1,"away_ga":1,"total_gd":5,"total_p":9,"description":"Promotion - Champions League (Round of 16)","created_at":null,"updated_at":null,"team":{"name":"Chelsea","name_ar":"\u062a\u0634\u064a\u0644\u0633\u064a","id":529,"image":"529.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/529.png"},"category":{"id":596,"name":"Group H","name_ar":"Group H","is_cup":0}},{"stage_id":10051027,"group":"Group H","round":4,"category_id":596,"league_id":130,"position":3,"status":"same","recent_form":"LLWL","team_id":3029,"overall_gp":4,"overall_w":1,"overall_d":0,"overall_l":3,"overall_gs":6,"overall_ga":6,"home_gp":2,"home_w":1,"home_d":0,"home_l":1,"home_gs":4,"home_ga":1,"away_gp":2,"away_w":0,"away_d":0,"away_l":2,"away_gs":2,"away_ga":5,"total_gd":0,"total_p":3,"description":"Promotion - Europa League (Round of 32)","created_at":null,"updated_at":null,"team":{"name":"Zenit","name_ar":"\u0632\u064a\u0646\u064a\u062a","id":3029,"image":"3029.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3029.png"},"category":{"id":596,"name":"Group H","name_ar":"Group H","is_cup":0}},{"stage_id":10051027,"group":"Group H","round":4,"category_id":596,"league_id":130,"position":4,"status":"same","recent_form":"LLLL","team_id":3252,"overall_gp":4,"overall_w":0,"overall_d":0,"overall_l":4,"overall_gs":0,"overall_ga":12,"home_gp":2,"home_w":0,"home_d":0,"home_l":2,"home_gs":0,"home_ga":4,"away_gp":2,"away_w":0,"away_d":0,"away_l":2,"away_gs":0,"away_ga":8,"total_gd":-12,"total_p":0,"description":"","created_at":null,"updated_at":null,"team":{"name":"Malmo FF","name_ar":"\u0645\u0627\u0644\u0645\u0648","id":3252,"image":"3252.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3252.png"},"category":{"id":596,"name":"Group H","name_ar":"Group H","is_cup":0}}]],"topscore":[{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":5313,"player_id":59295,"is_current":1,"type":0,"pos":1,"yellowcards":0,"redcards":0,"goals":8,"penalty_goals":1,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Bayern Munich","name_ar":"\u0628\u0627\u064a\u0631\u0646 \u0645\u064a\u0648\u0646\u064a\u062e","id":5313,"image":"5313.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5313.png"},"player":{"name":"R. Lewandowski","name_ar":"R. Lewandowski","id":59295,"image":"59295.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/59295.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":2829,"player_id":6534,"is_current":1,"type":0,"pos":2,"yellowcards":0,"redcards":0,"goals":7,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Ajax","name_ar":"\u0623\u064a\u0627\u0643\u0633","id":2829,"image":"2829.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2829.png"},"player":{"name":"S. Haller","name_ar":"S. Haller","id":6534,"image":"6534.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/6534.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":2627,"player_id":151302,"is_current":1,"type":0,"pos":3,"yellowcards":0,"redcards":0,"goals":5,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"RB Leipzig","name_ar":"\u0644\u0627\u064a\u0628\u0632\u064a\u062c","id":2627,"image":"2627.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2627.png"},"player":{"name":"C. Nkunku","name_ar":"C. Nkunku","id":151302,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":544,"player_id":59341,"is_current":1,"type":0,"pos":4,"yellowcards":0,"redcards":0,"goals":5,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Manchester Utd","name_ar":"\u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u064a\u0648\u0646\u0627\u064a\u062a\u062f","id":544,"image":"544.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/544.png"},"player":{"name":"Cristiano Ronaldo","name_ar":"Cristiano Ronaldo","id":59341,"image":"59341.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/59341.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":535,"player_id":3343,"is_current":1,"type":0,"pos":5,"yellowcards":0,"redcards":0,"goals":5,"penalty_goals":1,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Liverpool","name_ar":"\u0644\u064a\u0641\u0631\u0628\u0648\u0644","id":535,"image":"535.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/535.png"},"player":{"name":"Mohamed Salah","name_ar":"Mohamed Salah","id":3343,"image":"3343.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/3343.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":5313,"player_id":59331,"is_current":1,"type":0,"pos":6,"yellowcards":0,"redcards":0,"goals":4,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Bayern Munich","name_ar":"\u0628\u0627\u064a\u0631\u0646 \u0645\u064a\u0648\u0646\u064a\u062e","id":5313,"image":"5313.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5313.png"},"player":{"name":"L. San\u00c3\u00a9","name_ar":"L. San\u00c3\u00a9","id":59331,"image":"59331.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/59331.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":5321,"player_id":59307,"is_current":1,"type":0,"pos":7,"yellowcards":0,"redcards":0,"goals":4,"penalty_goals":1,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Real Madrid","name_ar":"\u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f","id":5321,"image":"5321.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5321.png"},"player":{"name":"K. Benzema","name_ar":"K. Benzema","id":59307,"image":"59307.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/59307.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":537,"player_id":3386,"is_current":1,"type":0,"pos":8,"yellowcards":0,"redcards":0,"goals":4,"penalty_goals":2,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Manchester City","name_ar":"\u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u0633\u064a\u062a\u064a","id":537,"image":"537.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/537.png"},"player":{"name":"R. Mahrez","name_ar":"R. Mahrez","id":3386,"image":"3386.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/3386.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":1460,"player_id":22200,"is_current":1,"type":0,"pos":9,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":2,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Salzburg","name_ar":"\u0631\u064a\u062f \u0628\u0648\u0644 \u0633\u0627\u0644\u0632\u0628\u0648\u0631\u063a","id":1460,"image":"1460.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1460.png"},"player":{"name":"K. Adeyemi","name_ar":"K. Adeyemi","id":22200,"image":"22200.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/22200.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":2830,"player_id":46579,"is_current":0,"type":0,"pos":10,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"PSV","name_ar":"\u0622\u064a\u0646\u062f\u0647\u0648\u0641\u0646","id":2830,"image":"2830.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2830.png"},"player":{"name":"E. Zahavi","name_ar":"E. Zahavi","id":46579,"image":"46579.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46579.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":3517,"player_id":35084,"is_current":0,"type":0,"pos":11,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Flora","name_ar":"Flora","id":3517,"image":"3517.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3517.png"},"player":{"name":"R. Sappinen","name_ar":"R. Sappinen","id":35084,"image":"35084.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/35084.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":2413,"player_id":46745,"is_current":0,"type":0,"pos":12,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"HJK","name_ar":"HJK","id":2413,"image":"2413.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2413.png"},"player":{"name":"Roope Riski","name_ar":"Roope Riski","id":46745,"image":"46745.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46745.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":3773,"player_id":42083,"is_current":0,"type":0,"pos":13,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Ferencvaros","name_ar":"Ferencvaros","id":3773,"image":"3773.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3773.png"},"player":{"name":"M. Uzuni","name_ar":"M. Uzuni","id":42083,"image":"42083.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/42083.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":950,"player_id":67133,"is_current":1,"type":0,"pos":14,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":1,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Paris SG","name_ar":"\u0628\u0627\u0631\u064a\u0633 \u0633\u0627\u0646 \u062c\u064a\u0631\u0645\u0627\u0646","id":950,"image":"950.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/950.png"},"player":{"name":"L. Messi","name_ar":"L. Messi","id":67133,"image":"67133.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/67133.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":4041,"player_id":59309,"is_current":1,"type":0,"pos":15,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Atl. Madrid","name_ar":"\u0623\u062a\u0644\u062a\u064a\u0643\u0648 \u0645\u062f\u0631\u064a\u062f","id":4041,"image":"4041.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4041.png"},"player":{"name":"A. Griezmann","name_ar":"A. Griezmann","id":59309,"image":"59309.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/59309.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":120,"player_id":1963,"is_current":1,"type":0,"pos":16,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Club Brugge KV","name_ar":"\u0643\u0644\u0648\u0628 \u0628\u0631\u0648\u062c","id":120,"image":"120.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/120.png"},"player":{"name":"H. Vanaken","name_ar":"H. Vanaken","id":1963,"image":"1963.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/1963.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":415,"player_id":11640,"is_current":1,"type":0,"pos":17,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Sporting","name_ar":"\u0633\u0628\u0648\u0631\u062a\u064a\u0646\u062c \u0644\u0634\u0628\u0648\u0646\u0629","id":415,"image":"415.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/415.png"},"player":{"name":"Paulinho","name_ar":"Paulinho","id":11640,"image":"11640.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/11640.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":3004,"player_id":100784,"is_current":1,"type":0,"pos":18,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":1,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Benfica","name_ar":"\u0628\u0646\u0641\u064a\u0643\u0627","id":3004,"image":"3004.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3004.png"},"player":{"name":"D. N\u00c3\u00ba\u00c3\u00b1ez","name_ar":"D. N\u00c3\u00ba\u00c3\u00b1ez","id":100784,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051027,"group":" Group Stage","category_id":544,"league_id":130,"team_id":5312,"player_id":151264,"is_current":1,"type":0,"pos":19,"yellowcards":0,"redcards":0,"goals":3,"penalty_goals":2,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Juventus","name_ar":"\u064a\u0648\u0641\u0646\u062a\u0648\u0633","id":5312,"image":"5312.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/5312.png"},"player":{"name":"P. Dybala","name_ar":"P. Dybala","id":151264,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":3515,"player_id":35012,"is_current":0,"type":0,"pos":20,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Slovan Bratislava","name_ar":"Slovan Bratislava","id":3515,"image":"3515.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3515.png"},"player":{"name":"R. Ratao","name_ar":"R. Ratao","id":35012,"image":"35012.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/35012.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":3515,"player_id":34994,"is_current":0,"type":0,"pos":21,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Slovan Bratislava","name_ar":"Slovan Bratislava","id":3515,"image":"3515.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3515.png"},"player":{"name":"E. Henty","name_ar":"E. Henty","id":34994,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":3514,"player_id":151462,"is_current":0,"type":0,"pos":22,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Lincoln Red Imps","name_ar":"Lincoln Red Imps","id":3514,"image":"3514.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3514.png"},"player":{"name":"T. De Barr","name_ar":"T. De Barr","id":151462,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":3252,"player_id":46311,"is_current":0,"type":0,"pos":23,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Malmo FF","name_ar":"\u0645\u0627\u0644\u0645\u0648","id":3252,"image":"3252.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3252.png"},"player":{"name":"A. \u00c4\u008colak","name_ar":"A. \u00c4\u008colak","id":46311,"image":"46311.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46311.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":3324,"player_id":46468,"is_current":0,"type":0,"pos":24,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Young Boys","name_ar":"\u064a\u0648\u0646\u062c \u0628\u0648\u064a\u0632","id":3324,"image":"3324.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3324.png"},"player":{"name":"J. Siebatcheu","name_ar":"J. Siebatcheu","id":46468,"image":"46468.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46468.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":3520,"player_id":35201,"is_current":0,"type":0,"pos":25,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":1,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Mura","name_ar":"\u0645\u0648\u0631\u0627","id":3520,"image":"3520.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3520.png"},"player":{"name":"L. Bobi\u00c4\u008danec","name_ar":"L. Bobi\u00c4\u008danec","id":35201,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":3520,"player_id":35188,"is_current":0,"type":0,"pos":26,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Mura","name_ar":"\u0645\u0648\u0631\u0627","id":3520,"image":"3520.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3520.png"},"player":{"name":"M. Klepa\u00c4\u008d","name_ar":"M. Klepa\u00c4\u008d","id":35188,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051440,"group":" Final Stage","category_id":544,"league_id":130,"team_id":3551,"player_id":36536,"is_current":0,"type":0,"pos":27,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Prishtina","name_ar":"Prishtina","id":3551,"image":"3551.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3551.png"},"player":{"name":"E. Krasniqi","name_ar":"E. Krasniqi","id":36536,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":3772,"player_id":41999,"is_current":0,"type":0,"pos":28,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Legia","name_ar":"\u0644\u064a\u062c\u064a\u0627 \u0648\u0627\u0631\u0633\u0648","id":3772,"image":"3772.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3772.png"},"player":{"name":"Rafael Lopes","name_ar":"Rafael Lopes","id":41999,"image":"41999.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/41999.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":3772,"player_id":42000,"is_current":0,"type":0,"pos":29,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Legia","name_ar":"\u0644\u064a\u062c\u064a\u0627 \u0648\u0627\u0631\u0633\u0648","id":3772,"image":"3772.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3772.png"},"player":{"name":"M. Emreli","name_ar":"M. Emreli","id":42000,"image":"42000.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/42000.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":3772,"player_id":42020,"is_current":0,"type":0,"pos":30,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Legia","name_ar":"\u0644\u064a\u062c\u064a\u0627 \u0648\u0627\u0631\u0633\u0648","id":3772,"image":"3772.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3772.png"},"player":{"name":"Luquinhas","name_ar":"Luquinhas","id":42020,"image":"42020.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/42020.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":3773,"player_id":42068,"is_current":0,"type":0,"pos":31,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Ferencvaros","name_ar":"Ferencvaros","id":3773,"image":"3773.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3773.png"},"player":{"name":"R. Mmaee","name_ar":"R. Mmaee","id":42068,"image":"42068.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/42068.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":3773,"player_id":67240,"is_current":0,"type":0,"pos":32,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Ferencvaros","name_ar":"Ferencvaros","id":3773,"image":"3773.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3773.png"},"player":{"name":"F. Boli","name_ar":"F. Boli","id":67240,"image":"67240.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/67240.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":451,"player_id":46624,"is_current":0,"type":0,"pos":33,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Crvena zvezda","name_ar":"Crvena zvezda","id":451,"image":"451.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/451.png"},"player":{"name":"A. Katai","name_ar":"A. Katai","id":46624,"image":"46624.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46624.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":3252,"player_id":46309,"is_current":0,"type":0,"pos":34,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Malmo FF","name_ar":"\u0645\u0627\u0644\u0645\u0648","id":3252,"image":"3252.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3252.png"},"player":{"name":"A. Christiansen","name_ar":"A. Christiansen","id":46309,"image":"46309.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46309.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":3252,"player_id":46288,"is_current":0,"type":0,"pos":35,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Malmo FF","name_ar":"\u0645\u0627\u0644\u0645\u0648","id":3252,"image":"3252.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3252.png"},"player":{"name":"V. Birman\u00c4\u008devi\u00c4\u0087","name_ar":"V. Birman\u00c4\u008devi\u00c4\u0087","id":46288,"image":"46288.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46288.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":1470,"player_id":35271,"is_current":0,"type":0,"pos":36,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Rapid Vienna","name_ar":"Rapid Vienna","id":1470,"image":"1470.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1470.png"},"player":{"name":"C. Knasm\u00c3\u00bcllner","name_ar":"C. Knasm\u00c3\u00bcllner","id":35271,"image":"35271.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/35271.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":9,"player_id":6260,"is_current":0,"type":0,"pos":37,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Monaco","name_ar":"\u0645\u0648\u0646\u0627\u0643\u0648","id":9,"image":"9.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/9.png"},"player":{"name":"W. Ben Yedder","name_ar":"W. Ben Yedder","id":6260,"image":"6260.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/6260.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":420,"player_id":9425,"is_current":0,"type":0,"pos":38,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"CFR Cluj","name_ar":"CFR Cluj","id":420,"image":"420.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/420.png"},"player":{"name":"G. Debeljuh","name_ar":"G. Debeljuh","id":9425,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":1274,"player_id":46731,"is_current":0,"type":0,"pos":39,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":2,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Neftchi Baku","name_ar":"Neftchi Baku","id":1274,"image":"1274.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1274.png"},"player":{"name":"E. Mahmudov","name_ar":"E. Mahmudov","id":46731,"image":"46731.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46731.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":1460,"player_id":22199,"is_current":0,"type":0,"pos":40,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Salzburg","name_ar":"\u0631\u064a\u062f \u0628\u0648\u0644 \u0633\u0627\u0644\u0632\u0628\u0648\u0631\u063a","id":1460,"image":"1460.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1460.png"},"player":{"name":"B. Aaronson","name_ar":"B. Aaronson","id":22199,"image":"22199.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/22199.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":1720,"player_id":34879,"is_current":0,"type":0,"pos":41,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Alashkert","name_ar":"Alashkert","id":1720,"image":"1720.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1720.png"},"player":{"name":"D. Khurtsidze","name_ar":"D. Khurtsidze","id":34879,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051023,"group":" 1st Qualifying Round","category_id":544,"league_id":130,"team_id":2194,"player_id":59188,"is_current":0,"type":0,"pos":42,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"D. Zagreb","name_ar":"D. Zagreb","id":2194,"image":"2194.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2194.png"},"player":{"name":"A. Ademi","name_ar":"A. Ademi","id":59188,"image":"59188.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/59188.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":2807,"player_id":46632,"is_current":0,"type":0,"pos":43,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Sheriff Tiraspol","name_ar":"\u0634\u064a\u0631\u064a\u0641 \u062a\u064a\u0631\u0627\u0633\u0628\u0648\u0644","id":2807,"image":"2807.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2807.png"},"player":{"name":"A. Traor\u00c3\u00a9","name_ar":"A. Traor\u00c3\u00a9","id":46632,"image":"46632.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46632.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":2807,"player_id":151422,"is_current":0,"type":0,"pos":44,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Sheriff Tiraspol","name_ar":"\u0634\u064a\u0631\u064a\u0641 \u062a\u064a\u0631\u0627\u0633\u0628\u0648\u0644","id":2807,"image":"2807.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2807.png"},"player":{"name":"H. Luvannor","name_ar":"H. Luvannor","id":151422,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":2830,"player_id":46580,"is_current":0,"type":0,"pos":45,"yellowcards":0,"redcards":0,"goals":2,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"PSV","name_ar":"\u0622\u064a\u0646\u062f\u0647\u0648\u0641\u0646","id":2830,"image":"2830.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2830.png"},"player":{"name":"M. G\u00c3\u00b6tze","name_ar":"M. G\u00c3\u00b6tze","id":46580,"image":"46580.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46580.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":3352,"player_id":46519,"is_current":0,"type":0,"pos":46,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Shakhtar Donetsk","name_ar":"\u0634\u0627\u062e\u062a\u0627\u0631 \u062f\u0648\u0646\u064a\u062a\u0633\u0643","id":3352,"image":"3352.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3352.png"},"player":{"name":"Pedrinho","name_ar":"Pedrinho","id":46519,"image":"46519.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46519.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":3324,"player_id":46454,"is_current":0,"type":0,"pos":47,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Young Boys","name_ar":"\u064a\u0648\u0646\u062c \u0628\u0648\u064a\u0632","id":3324,"image":"3324.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3324.png"},"player":{"name":"U. Garcia","name_ar":"U. Garcia","id":46454,"image":"46454.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46454.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":451,"player_id":46616,"is_current":0,"type":0,"pos":48,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Crvena zvezda","name_ar":"Crvena zvezda","id":451,"image":"451.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/451.png"},"player":{"name":"L. Diony","name_ar":"L. Diony","id":46616,"image":"46616.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46616.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":420,"player_id":46461,"is_current":0,"type":0,"pos":49,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"CFR Cluj","name_ar":"CFR Cluj","id":420,"image":"420.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/420.png"},"player":{"name":"M. Cestor","name_ar":"M. Cestor","id":46461,"image":"46461.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46461.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":4134,"player_id":46664,"is_current":0,"type":0,"pos":50,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Olympiacos Piraeus","name_ar":"Olympiacos Piraeus","id":4134,"image":"4134.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4134.png"},"player":{"name":"A. Camara","name_ar":"A. Camara","id":46664,"image":"46664.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46664.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":4134,"player_id":46673,"is_current":0,"type":0,"pos":51,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":1,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Olympiacos Piraeus","name_ar":"Olympiacos Piraeus","id":4134,"image":"4134.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4134.png"},"player":{"name":"Y. El-Arabi","name_ar":"Y. El-Arabi","id":46673,"image":"46673.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46673.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":4135,"player_id":46667,"is_current":0,"type":0,"pos":52,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Ludogorets","name_ar":"Ludogorets","id":4135,"image":"4135.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4135.png"},"player":{"name":"K. Despodov","name_ar":"K. Despodov","id":46667,"image":"46667.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46667.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":4584,"player_id":151356,"is_current":0,"type":0,"pos":53,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Brondby","name_ar":"Brondby","id":4584,"image":"4584.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/4584.png"},"player":{"name":"A. Maxs\u00c3\u00b8","name_ar":"A. Maxs\u00c3\u00b8","id":151356,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":3252,"player_id":46317,"is_current":0,"type":0,"pos":54,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Malmo FF","name_ar":"\u0645\u0627\u0644\u0645\u0648","id":3252,"image":"3252.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3252.png"},"player":{"name":"J. Berget","name_ar":"J. Berget","id":46317,"image":"46317.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46317.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":3004,"player_id":41929,"is_current":0,"type":0,"pos":55,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Benfica","name_ar":"\u0628\u0646\u0641\u064a\u0643\u0627","id":3004,"image":"3004.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3004.png"},"player":{"name":"Rafa Silva","name_ar":"Rafa Silva","id":41929,"image":"41929.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/41929.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":9,"player_id":6248,"is_current":0,"type":0,"pos":56,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Monaco","name_ar":"\u0645\u0648\u0646\u0627\u0643\u0648","id":9,"image":"9.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/9.png"},"player":{"name":"Gelson Martins","name_ar":"Gelson Martins","id":6248,"image":"6248.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/6248.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":3324,"player_id":46458,"is_current":0,"type":0,"pos":57,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Young Boys","name_ar":"\u064a\u0648\u0646\u062c \u0628\u0648\u064a\u0632","id":3324,"image":"3324.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3324.png"},"player":{"name":"C. Fassnacht","name_ar":"C. Fassnacht","id":46458,"image":"46458.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46458.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":9,"player_id":6246,"is_current":0,"type":0,"pos":58,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Monaco","name_ar":"\u0645\u0648\u0646\u0627\u0643\u0648","id":9,"image":"9.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/9.png"},"player":{"name":"S. Diop","name_ar":"S. Diop","id":6246,"image":"6246.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/6246.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":3511,"player_id":151489,"is_current":0,"type":0,"pos":59,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Kairat","name_ar":"Kairat","id":3511,"image":"3511.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3511.png"},"player":{"name":"M. Bagnack","name_ar":"M. Bagnack","id":151489,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":3513,"player_id":34931,"is_current":0,"type":0,"pos":60,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Celtic","name_ar":"Celtic","id":3513,"image":"3513.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3513.png"},"player":{"name":"L. Abada","name_ar":"L. Abada","id":34931,"image":"34931.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/34931.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":2830,"player_id":46578,"is_current":0,"type":0,"pos":61,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"PSV","name_ar":"\u0622\u064a\u0646\u062f\u0647\u0648\u0641\u0646","id":2830,"image":"2830.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2830.png"},"player":{"name":"C. Gakpo","name_ar":"C. Gakpo","id":46578,"image":"46578.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46578.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":3324,"player_id":46475,"is_current":0,"type":0,"pos":62,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Young Boys","name_ar":"\u064a\u0648\u0646\u062c \u0628\u0648\u064a\u0632","id":3324,"image":"3324.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3324.png"},"player":{"name":"F. Mambimbi","name_ar":"F. Mambimbi","id":46475,"image":"46475.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46475.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":2807,"player_id":46627,"is_current":0,"type":0,"pos":63,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Sheriff Tiraspol","name_ar":"\u0634\u064a\u0631\u064a\u0641 \u062a\u064a\u0631\u0627\u0633\u0628\u0648\u0644","id":2807,"image":"2807.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2807.png"},"player":{"name":"D. Arboleda","name_ar":"D. Arboleda","id":46627,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":2807,"player_id":46618,"is_current":0,"type":0,"pos":64,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Sheriff Tiraspol","name_ar":"\u0634\u064a\u0631\u064a\u0641 \u062a\u064a\u0631\u0627\u0633\u0628\u0648\u0644","id":2807,"image":"2807.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2807.png"},"player":{"name":"F. Casta\u00c3\u00b1eda","name_ar":"F. Casta\u00c3\u00b1eda","id":46618,"image":null,"image_path":"https:\/\/via.placeholder.com\/120x90"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051026,"group":" Play-offs","category_id":544,"league_id":130,"team_id":3324,"player_id":46467,"is_current":0,"type":0,"pos":65,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Young Boys","name_ar":"\u064a\u0648\u0646\u062c \u0628\u0648\u064a\u0632","id":3324,"image":"3324.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3324.png"},"player":{"name":"M. Elia","name_ar":"M. Elia","id":46467,"image":"46467.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46467.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":2194,"player_id":42006,"is_current":0,"type":0,"pos":66,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"D. Zagreb","name_ar":"D. Zagreb","id":2194,"image":"2194.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/2194.png"},"player":{"name":"B. Franji\u00c4\u0087","name_ar":"B. Franji\u00c4\u0087","id":42006,"image":"42006.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/42006.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":1863,"player_id":21974,"is_current":0,"type":0,"pos":67,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Genk","name_ar":"\u062c\u064a\u0646\u0643","id":1863,"image":"1863.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/1863.png"},"player":{"name":"C. Dessers","name_ar":"C. Dessers","id":21974,"image":"21974.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/21974.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051024,"group":" 2nd Qualifying Round","category_id":544,"league_id":130,"team_id":3324,"player_id":46466,"is_current":0,"type":0,"pos":68,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Young Boys","name_ar":"\u064a\u0648\u0646\u062c \u0628\u0648\u064a\u0632","id":3324,"image":"3324.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3324.png"},"player":{"name":"M. Aebischer","name_ar":"M. Aebischer","id":46466,"image":"46466.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46466.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}},{"stage_id":10051025,"group":" 3rd Qualifying Round","category_id":544,"league_id":130,"team_id":3104,"player_id":46298,"is_current":0,"type":0,"pos":69,"yellowcards":0,"redcards":0,"goals":1,"penalty_goals":0,"assists":0,"created_at":null,"updated_at":null,"type_string":"\u0647\u062f\u0627\u0641","team":{"name":"Rangers","name_ar":"Rangers","id":3104,"image":"3104.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/teams\/3104.png"},"player":{"name":"S. Davis","name_ar":"S. Davis","id":46298,"image":"46298.png","image_path":"http:\/\/dashboard.live-plus.io\/storage\/players\/46298.png"},"category":{"id":544,"name":" Group Stage","name_ar":" Group Stage","is_cup":0}}]}
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "LiIo5Z7UX73P",
+   "metadata": {
+    "id": "LiIo5Z7UX73P"
+   },
+   "source": [
+    "# UEFA Champions League group stage draw simulator\n",
+    "\n",
+    "This notebook allows to simulate the UEFA Champions League group stage draw procedure.\n",
+    "\n",
+    "This notebook relies on a simple constraint solver to decide on the possible groups that each club can be drawn into.\n",
+    "\n",
+    "1. Clubs from the same association need to be drawn into different groups;\n",
+    "2. Clubs that are paired based on TV audiences need to play on different days;\n",
+    "3. Clubs from given associations need to be drawn into different groups (e.g., Ukraine and Belarus).\n",
+    "\n",
+    "If you spot any mistakes or have suggestions to improve the approach, then please [get in touch](https://twitter.com/JanVanHaaren) with me.\n",
+    "\n",
+    "**References**\n",
+    "* [UEFA Champions League group stage draw pots confirmation](https://www.uefa.com/uefachampionsleague/news/0278-15f3603078f7-909c4310d18c-1000--champions-league-group-stage-draw-pots-confirmed/)\n",
+    "* [UEFA Champions League group stage draw](https://www.uefa.com/uefachampionsleague/draws/2023/2001673/)\n",
+    "* [UEFA Champions League regulations](https://documents.uefa.com/r/Regulations-of-the-UEFA-Champions-League-2022/23-Online)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4df8a91d",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:50:40.644055Z",
+     "start_time": "2022-08-25T12:50:40.636889Z"
+    },
+    "colab": {
+     "base_uri": "https://localhost:8080/"
+    },
+    "id": "2cJ1vuIUvbHz",
+    "outputId": "0c94a696-c9fd-4763-edd5-94598ee65b14"
+   },
+   "outputs": [],
+   "source": [
+    "in_colab = 'google.colab' in str(get_ipython())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2cJ1vuIUvbHz",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:50:42.074346Z",
+     "start_time": "2022-08-25T12:50:42.066871Z"
+    },
+    "colab": {
+     "base_uri": "https://localhost:8080/"
+    },
+    "id": "2cJ1vuIUvbHz",
+    "outputId": "0c94a696-c9fd-4763-edd5-94598ee65b14"
+   },
+   "outputs": [],
+   "source": [
+    "if in_colab:\n",
+    "    !pip install numpy==1.21.6 pandas==1.3.5 python-constraint==1.4.0 tqdm"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "84e29dfc",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.480336Z",
+     "start_time": "2022-08-25T12:43:10.040244Z"
+    },
+    "id": "84e29dfc"
+   },
+   "outputs": [],
+   "source": [
+    "import random\n",
+    "\n",
+    "from collections import defaultdict\n",
+    "from collections import namedtuple\n",
+    "from itertools import product\n",
+    "\n",
+    "import numpy as np\n",
+    "import pandas as pd\n",
+    "\n",
+    "from constraint import Problem\n",
+    "from constraint import AllDifferentConstraint\n",
+    "from constraint import FunctionConstraint\n",
+    "from tqdm.notebook import tqdm"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0b32982a",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.487488Z",
+     "start_time": "2022-08-25T12:43:10.482854Z"
+    },
+    "id": "0b32982a"
+   },
+   "outputs": [],
+   "source": [
+    "random.seed(42)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cGsu7LAPHoYI",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.496533Z",
+     "start_time": "2022-08-25T12:43:10.490439Z"
+    },
+    "id": "cGsu7LAPHoYI"
+   },
+   "outputs": [],
+   "source": [
+    "np.set_printoptions(threshold=np.inf)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ZE4jEy5SHony",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.505010Z",
+     "start_time": "2022-08-25T12:43:10.501875Z"
+    },
+    "id": "ZE4jEy5SHony"
+   },
+   "outputs": [],
+   "source": [
+    "pd.options.display.min_rows = 32\n",
+    "pd.options.display.max_rows = 32\n",
+    "pd.options.display.max_columns = 32"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "Wy4Xip_5x_6_",
+   "metadata": {
+    "id": "Wy4Xip_5x_6_"
+   },
+   "source": [
+    "# Provide participants and restrictions"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f2a66a89",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.512283Z",
+     "start_time": "2022-08-25T12:43:10.506986Z"
+    },
+    "id": "f2a66a89"
+   },
+   "outputs": [],
+   "source": [
+    "Participant = namedtuple('Participant', ['club_name', 'country_name', 'draw_pot'])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f4ff9020",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.519641Z",
+     "start_time": "2022-08-25T12:43:10.513881Z"
+    },
+    "id": "f4ff9020"
+   },
+   "outputs": [],
+   "source": [
+    "participants = [\n",
+    "    Participant('Real Madrid', 'Spain', 1),  # Champions League winner\n",
+    "    Participant('Eintracht Frankfurt', 'Germany', 1),  # Europa League winner\n",
+    "    Participant('Manchester City', 'England', 1),\n",
+    "    Participant('Milan', 'Italy', 1),\n",
+    "    Participant('Bayern Munich', 'Germany', 1),\n",
+    "    Participant('Paris Saint-Germain', 'France', 1),\n",
+    "    Participant('Porto', 'Portugal', 1),\n",
+    "    Participant('Ajax', 'Netherlands', 1),\n",
+    "\n",
+    "    Participant('Liverpool', 'England', 2),\n",
+    "    Participant('Chelsea', 'England', 2),\n",
+    "    Participant('Barcelona', 'Spain', 2),\n",
+    "    Participant('Juventus', 'Italy', 2),\n",
+    "    Participant('Atlético Madrid', 'Spain', 2),\n",
+    "    Participant('Sevilla', 'Spain', 2),\n",
+    "    Participant('RB Leipzig', 'Germany', 2),\n",
+    "    Participant('Tottenham Hotspur', 'England', 2),\n",
+    "\n",
+    "    Participant('Borussia Dortmund', 'Germany', 3),\n",
+    "    Participant('Red Bull Salzburg', 'Austria', 3),\n",
+    "    Participant('Shakhtar Donetsk', 'Ukraine', 3),\n",
+    "    Participant('Inter Milan', 'Italy', 3),\n",
+    "    Participant('Napoli', 'Italy', 3),\n",
+    "    Participant('Benfica', 'Portugal', 3),\n",
+    "    Participant('Sporting CP', 'Portugal', 3),\n",
+    "    Participant('Bayer Leverkusen', 'Germany', 3),\n",
+    "\n",
+    "    Participant('Rangers', 'Scotland', 4),\n",
+    "    Participant('Dinamo Zagreb', 'Croatia', 4),\n",
+    "    Participant('Marseille', 'France', 4),\n",
+    "    Participant('Copenhagen', 'Denmark', 4),\n",
+    "    Participant('Club Brugge', 'Belgium', 4),\n",
+    "    Participant('Celtic', 'Scotland', 4),\n",
+    "    Participant('Viktoria Plzeň', 'Czech Republic', 4),\n",
+    "    Participant('Maccabi Haifa', 'Israel', 4),\n",
+    "]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ff22e4e0",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.529197Z",
+     "start_time": "2022-08-25T12:43:10.521672Z"
+    },
+    "id": "ff22e4e0"
+   },
+   "outputs": [],
+   "source": [
+    "club_pairings = [\n",
+    "    \n",
+    "    # Spain\n",
+    "    ('Real Madrid', 'Barcelona'),\n",
+    "    ('Atlético Madrid', 'Sevilla'),\n",
+    "\n",
+    "    # Germany\n",
+    "    ('Bayern Munich', 'Borussia Dortmund'),\n",
+    "    ('Eintracht Frankfurt', 'RB Leipzig'),\n",
+    "\n",
+    "    # England\n",
+    "    ('Manchester City', 'Liverpool'),\n",
+    "    ('Chelsea', 'Tottenham Hotspur'),\n",
+    "    \n",
+    "    # Italy\n",
+    "    ('Milan', 'Napoli'),\n",
+    "    ('Juventus', 'Inter Milan'),\n",
+    "\n",
+    "    # France\n",
+    "    ('Paris Saint-Germain', 'Marseille'),\n",
+    "    \n",
+    "    # Portugal\n",
+    "    ('Porto', 'Benfica'),\n",
+    "    \n",
+    "    # Scotland\n",
+    "    ('Rangers', 'Celtic'),\n",
+    "]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "39a28af6",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.537483Z",
+     "start_time": "2022-08-25T12:43:10.532766Z"
+    },
+    "id": "39a28af6"
+   },
+   "outputs": [],
+   "source": [
+    "country_ban_pairings = [\n",
+    "    ('Ukraine', 'Belarus'),\n",
+    "    ('Ukraine', 'Russia'),\n",
+    "]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0e4ecfcd",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.545991Z",
+     "start_time": "2022-08-25T12:43:10.539317Z"
+    },
+    "id": "0e4ecfcd"
+   },
+   "outputs": [],
+   "source": [
+    "group_half_assignment = {\n",
+    "    'A': 1,\n",
+    "    'B': 1,\n",
+    "    'C': 1,\n",
+    "    'D': 1,\n",
+    "    'E': 2,\n",
+    "    'F': 2,\n",
+    "    'G': 2,\n",
+    "    'H': 2,\n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "D6qet5PL9oqF",
+   "metadata": {
+    "id": "D6qet5PL9oqF"
+   },
+   "source": [
+    "# Build auxiliary data structures"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1b8df910",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.553975Z",
+     "start_time": "2022-08-25T12:43:10.548160Z"
+    },
+    "id": "1b8df910"
+   },
+   "outputs": [],
+   "source": [
+    "pot_clubs_mapping = defaultdict(list)  # dict[pot, list[club]]\n",
+    "club_pot_mapping = {}  # dict[club, pot]\n",
+    "\n",
+    "country_clubs_mapping = defaultdict(list)  # dict[country, list[club]]\n",
+    "club_country_mapping = {}  # dict[club, country]\n",
+    "\n",
+    "for participant in participants:\n",
+    "    pot_clubs_mapping[participant.draw_pot].append(participant.club_name)\n",
+    "    club_pot_mapping[participant.club_name] = participant.draw_pot\n",
+    "    \n",
+    "    country_clubs_mapping[participant.country_name].append(participant.club_name)\n",
+    "    club_country_mapping[participant.club_name] = participant.country_name"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3TtVUpDA9IUL",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.573853Z",
+     "start_time": "2022-08-25T12:43:10.556037Z"
+    },
+    "id": "3TtVUpDA9IUL"
+   },
+   "outputs": [],
+   "source": [
+    "clubs = list(club_country_mapping.keys())\n",
+    "num_clubs = len(clubs)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "400aa6c9",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.584079Z",
+     "start_time": "2022-08-25T12:43:10.576727Z"
+    },
+    "id": "400aa6c9"
+   },
+   "outputs": [],
+   "source": [
+    "country_ban_clubs = []\n",
+    "for country1, country2 in country_ban_pairings:\n",
+    "    country1_clubs = country_clubs_mapping.get(country1, [])\n",
+    "    country2_clubs = country_clubs_mapping.get(country2, [])\n",
+    "    for club1, club2 in product(country1_clubs, country2_clubs):\n",
+    "        country_ban_clubs.append((club1, club2))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d059064a",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.591959Z",
+     "start_time": "2022-08-25T12:43:10.586889Z"
+    },
+    "id": "d059064a"
+   },
+   "outputs": [],
+   "source": [
+    "groups = list(group_half_assignment.keys())"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6c14ec77",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.601629Z",
+     "start_time": "2022-08-25T12:43:10.594987Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "pots = list(pot_clubs_mapping.keys())"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "-ocJIC78Xf1_",
+   "metadata": {
+    "id": "-ocJIC78Xf1_"
+   },
+   "source": [
+    "# Simulate one draw\n",
+    "\n",
+    "Run the draw procedure once to obtain a possible allocation of clubs to groups."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "VNkDrMu_BrHK",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.611638Z",
+     "start_time": "2022-08-25T12:43:10.605171Z"
+    },
+    "id": "VNkDrMu_BrHK"
+   },
+   "outputs": [],
+   "source": [
+    "def different_day(group1, group2):\n",
+    "    day1 = group_half_assignment.get(group1)\n",
+    "    day2 = group_half_assignment.get(group2)\n",
+    "    \n",
+    "    return day1 != day2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3d37dd61",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.623003Z",
+     "start_time": "2022-08-25T12:43:10.614466Z"
+    },
+    "id": "3d37dd61"
+   },
+   "outputs": [],
+   "source": [
+    "def produce_draw(assignment=None):\n",
+    "    \"\"\"Produce a possible draw, optionally given a partial assignment of clubs to groups.\n",
+    "    \n",
+    "    The problem consists of 32 variables, each corresponding to one of the 32 clubs, that\n",
+    "    can take 8 possible values, each corresponding to one of the 8 possible groups.\n",
+    " \n",
+    "    The task is to find an assignment of the 8 groups to the 32 clubs such that all constraints are satisfied. \n",
+    "\n",
+    "    Note: The problem can be defined in many different ways, each having advantages and disadvantages with\n",
+    "    respect to the ability to enforce the constraints and to break the inherent symmetries.\n",
+    "    \n",
+    "    \"\"\"\n",
+    "\n",
+    "    if not assignment:\n",
+    "        assignment = {}\n",
+    "\n",
+    "    problem = Problem()\n",
+    "\n",
+    "    # Set possible groups for each club. If available, use the given assignment. Otherwise, use all groups.\n",
+    "    for club in clubs:\n",
+    "        if club in assignment:\n",
+    "            problem.addVariable(club, assignment.get(club))\n",
+    "        else:\n",
+    "            problem.addVariable(club, groups)\n",
+    "\n",
+    "    # Clubs in the same pot need to be drawn into different groups.\n",
+    "    for _, pot_clubs in pot_clubs_mapping.items():\n",
+    "        problem.addConstraint(AllDifferentConstraint(), pot_clubs)\n",
+    "\n",
+    "    # Clubs from the same association need to be drawn into different groups.\n",
+    "    for country, country_clubs in country_clubs_mapping.items():\n",
+    "        if len(country_clubs) > 1:\n",
+    "            problem.addConstraint(AllDifferentConstraint(), country_clubs)\n",
+    "\n",
+    "    # Clubs from associations that cannot face each other need to be drawn into different groups.\n",
+    "    for country_ban_club_pair in country_ban_clubs:\n",
+    "        problem.addConstraint(AllDifferentConstraint(), country_ban_club_pair)\n",
+    "\n",
+    "    # Clubs that are paired based on TV audiences need to play on different days.\n",
+    "    # Groups A, B, C and D play on the same day. Groups E, F, G and H play on the same day.\n",
+    "    for club1, club2 in club_pairings:\n",
+    "        problem.addConstraint(FunctionConstraint(different_day), (club1, club2))\n",
+    "\n",
+    "    return problem.getSolution()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c12f8234",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.634659Z",
+     "start_time": "2022-08-25T12:43:10.625332Z"
+    },
+    "id": "c12f8234"
+   },
+   "outputs": [],
+   "source": [
+    "# Store the hashes of partial assignments that can result in a valid draw\n",
+    "# to avoid solving the same constraint satisfaction problem multiple times.\n",
+    "valid_assignment_hashes = set()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cd33c577",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.645216Z",
+     "start_time": "2022-08-25T12:43:10.637504Z"
+    },
+    "id": "cd33c577"
+   },
+   "outputs": [],
+   "source": [
+    "def run_simulation(partial_draw=None):\n",
+    "    \"\"\"Simulate the draw procedure to produce a draw that satisfies the constraints.\"\"\"\n",
+    "    \n",
+    "    draw = {}\n",
+    "    if partial_draw:\n",
+    "        draw.update(partial_draw)\n",
+    "    \n",
+    "    for pot, pot_clubs in pot_clubs_mapping.items():\n",
+    "        pot_groups = groups.copy()\n",
+    "\n",
+    "        # The pot_clubs list could be randomly shuffled to mimic the actual draw procedure.\n",
+    "        # However, a random shuffle should not affect the resulting probabilities.\n",
+    "        for pot_club in pot_clubs:\n",
+    "            if pot_club in draw:\n",
+    "                continue\n",
+    "            possible_groups = []\n",
+    "\n",
+    "            for group in pot_groups:\n",
+    "                assignment = draw.copy()\n",
+    "                assignment[pot_club] = group\n",
+    "\n",
+    "                assignment_hash = hash(frozenset(assignment.items()))\n",
+    "                if assignment_hash in valid_assignment_hashes:\n",
+    "                    possible_groups.append(group)\n",
+    "                else:\n",
+    "                    possible_draw = produce_draw(assignment)\n",
+    "                    if possible_draw:\n",
+    "                        possible_groups.append(group)\n",
+    "                        valid_assignment_hashes.add(assignment_hash)\n",
+    "\n",
+    "            selected_group = random.choice(possible_groups)\n",
+    "            draw[pot_club] = selected_group\n",
+    "            pot_groups.remove(selected_group)\n",
+    "\n",
+    "    return draw"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "TmkzTGx92Vxr",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.792649Z",
+     "start_time": "2022-08-25T12:43:10.647787Z"
+    },
+    "id": "TmkzTGx92Vxr"
+   },
+   "outputs": [],
+   "source": [
+    "draw = run_simulation()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "37142d0c",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.802359Z",
+     "start_time": "2022-08-25T12:43:10.797480Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "# Uncomment the following line to display the draw\n",
+    "# draw"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "Kj2mH6ToFlOA",
+   "metadata": {
+    "id": "Kj2mH6ToFlOA"
+   },
+   "source": [
+    "# Display draw result"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "32793638",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.813528Z",
+     "start_time": "2022-08-25T12:43:10.806123Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "def print_draw(draw):\n",
+    "    table = defaultdict(dict)\n",
+    "    for club, group in draw.items():\n",
+    "        pot = club_pot_mapping.get(club)\n",
+    "        country = club_country_mapping.get(club)\n",
+    "        table[group][pot] = (club, country)\n",
+    "        \n",
+    "    for group in groups:\n",
+    "        print('-----------------------------------')\n",
+    "        print(f'-- Group {group}')\n",
+    "        print('-----------------------------------')\n",
+    "        for pot in pots:\n",
+    "            club, country = table.get(group, {}).get(pot, ('None', 'None'))\n",
+    "            print(f'{pot}. {club} ({country})')\n",
+    "        print()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "oIoBYigT2baT",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.835612Z",
+     "start_time": "2022-08-25T12:43:10.816883Z"
+    },
+    "colab": {
+     "base_uri": "https://localhost:8080/"
+    },
+    "id": "oIoBYigT2baT",
+    "outputId": "7a173735-f254-4880-cb95-8e3a884f8a3a"
+   },
+   "outputs": [],
+   "source": [
+    "print_draw(draw)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c6fTNWDb4aIi",
+   "metadata": {
+    "id": "c6fTNWDb4aIi"
+   },
+   "source": [
+    "# Simulate many draws\n",
+    "\n",
+    "Run the draw procedure many times to obtain the probability for each pair of clubs to end up in the same group."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "paWDCm-GEwJu",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.841468Z",
+     "start_time": "2022-08-25T12:43:10.838264Z"
+    },
+    "id": "paWDCm-GEwJu"
+   },
+   "outputs": [],
+   "source": [
+    "def initialize_grid():\n",
+    "    grid = np.zeros((num_clubs, num_clubs))\n",
+    "    \n",
+    "    return grid"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b7eabfeb",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.849333Z",
+     "start_time": "2022-08-25T12:43:10.844455Z"
+    },
+    "id": "b7eabfeb"
+   },
+   "outputs": [],
+   "source": [
+    "def update_grid(grid, draw):\n",
+    "    for idx1, club1 in enumerate(clubs):\n",
+    "        group1 = draw[club1]\n",
+    "        for idx2, club2 in enumerate(clubs):\n",
+    "            group2 = draw[club2]\n",
+    "            if group1 == group2:\n",
+    "                grid[idx1][idx2] += 1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "EaWmxBPQ9hPY",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.856202Z",
+     "start_time": "2022-08-25T12:43:10.851149Z"
+    },
+    "id": "EaWmxBPQ9hPY"
+   },
+   "outputs": [],
+   "source": [
+    "def run_simulations(num_simulations, partial_draw=None):\n",
+    "    grid = initialize_grid()\n",
+    "    for _ in tqdm(range(num_simulations)):\n",
+    "        draw = run_simulation(partial_draw)\n",
+    "        update_grid(grid, draw)\n",
+    "    grid /= num_simulations\n",
+    "\n",
+    "    table = pd.DataFrame(\n",
+    "        data=grid,\n",
+    "        index=clubs,\n",
+    "        columns=clubs,\n",
+    "    )\n",
+    "\n",
+    "    return table"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "Qf_ZvTb54aVj",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:43:10.864788Z",
+     "start_time": "2022-08-25T12:43:10.859736Z"
+    },
+    "id": "Qf_ZvTb54aVj"
+   },
+   "outputs": [],
+   "source": [
+    "num_simulations = 1_000"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "LztU7klG8Rn-",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:44:33.957495Z",
+     "start_time": "2022-08-25T12:43:10.867449Z"
+    },
+    "colab": {
+     "base_uri": "https://localhost:8080/",
+     "height": 49,
+     "referenced_widgets": [
+      "8da8a4aaf19b4d04984bdffb85a76a8f",
+      "5590e7b94f9e495585ec011e47aab9e2",
+      "870fe024dea54429a5302f669c2809e6",
+      "cb5203cec2db450fae78220eea1f6d43",
+      "110768c432ee4ba2bb3d7f00c766d1d3",
+      "f5fdd03c257a4a1eae8ea99c49fc3eb8",
+      "99b25700edc543688f16836ad19b7163",
+      "c9f5b183d836470aa4541647f8b80a34",
+      "b3cded899ae14a8dac0d44d55a31fd10",
+      "bebb89ff66284a6397b790e2f3c98c3a",
+      "970fe2145b3d4d649afb22fd5ab46243"
+     ]
+    },
+    "id": "LztU7klG8Rn-",
+    "outputId": "c9a0a4ee-1b73-419e-999f-c5eb03411271"
+   },
+   "outputs": [],
+   "source": [
+    "table = run_simulations(num_simulations)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "Bjwc-an32yP0",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:44:33.963785Z",
+     "start_time": "2022-08-25T12:44:33.960196Z"
+    },
+    "colab": {
+     "base_uri": "https://localhost:8080/",
+     "height": 1000
+    },
+    "id": "Bjwc-an32yP0",
+    "outputId": "83834eaf-0d82-4930-e04e-4772553ea568"
+   },
+   "outputs": [],
+   "source": [
+    "# Uncomment the following line to display the probability table\n",
+    "# table"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d78cba2c",
+   "metadata": {},
+   "source": [
+    "# Simulate many draws given current draw\n",
+    "\n",
+    "Run the draw procedure many times to obtain the probability for each pair of clubs to end up in the same group, given a partial allocation of clubs to groups, for instance, during the actual draw."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "acbb291d",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:44:33.973209Z",
+     "start_time": "2022-08-25T12:44:33.966179Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "def select_assigned_clubs(partial_draw):\n",
+    "    assigned = {\n",
+    "        club: group\n",
+    "        for club, group in partial_draw.items()\n",
+    "        if group in groups\n",
+    "    }\n",
+    "\n",
+    "    return assigned"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a2d8c7fa",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:44:33.981070Z",
+     "start_time": "2022-08-25T12:44:33.975298Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "# Assign a group letter (A through H) to a club to allocate the club to the specified group.\n",
+    "current_draw = {\n",
+    "    'Real Madrid': 'A',\n",
+    "    'Eintracht Frankfurt': 'E',\n",
+    "    'Manchester City': 'B',\n",
+    "    'Milan': 'F',\n",
+    "    'Bayern Munich': 'C',\n",
+    "    'Paris Saint-Germain': 'G',\n",
+    "    'Porto': 'D',\n",
+    "    'Ajax': 'H',\n",
+    "    'Liverpool': 'H',\n",
+    "    'Chelsea': 'D',\n",
+    "    'Barcelona': 'G',\n",
+    "    'Juventus': 'C',\n",
+    "    'Atlético Madrid': 'F',\n",
+    "    'Sevilla': 'B',\n",
+    "    'RB Leipzig': 'A',\n",
+    "    'Tottenham Hotspur': 'E',\n",
+    "    'Borussia Dortmund': '',\n",
+    "    'Red Bull Salzburg': '',\n",
+    "    'Shakhtar Donetsk': '',\n",
+    "    'Inter Milan': '',\n",
+    "    'Napoli': '',\n",
+    "    'Benfica': '',\n",
+    "    'Sporting CP': '',\n",
+    "    'Bayer Leverkusen': '',\n",
+    "    'Rangers': '',\n",
+    "    'Dinamo Zagreb': '',\n",
+    "    'Marseille': '',\n",
+    "    'Copenhagen': '',\n",
+    "    'Club Brugge': '',\n",
+    "    'Celtic': '',\n",
+    "    'Viktoria Plzeň': '',\n",
+    "    'Maccabi Haifa': '', \n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0494e43a",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:44:33.990103Z",
+     "start_time": "2022-08-25T12:44:33.982496Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "num_simulations = 1_000"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b43217d3",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:44:33.996385Z",
+     "start_time": "2022-08-25T12:44:33.991495Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "partial_draw = select_assigned_clubs(current_draw)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e4355175",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:45:00.848334Z",
+     "start_time": "2022-08-25T12:44:33.997902Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "table = run_simulations(\n",
+    "    num_simulations,\n",
+    "    partial_draw,\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b7303860",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:45:00.853658Z",
+     "start_time": "2022-08-25T12:45:00.850364Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "# Uncomment the following line to display the probability table\n",
+    "# table"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "IWxOldT4Fyo1",
+   "metadata": {
+    "id": "IWxOldT4Fyo1"
+   },
+   "source": [
+    "# Analyze draw results"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "MV7eIzTd566l",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:45:00.863191Z",
+     "start_time": "2022-08-25T12:45:00.856149Z"
+    },
+    "id": "MV7eIzTd566l"
+   },
+   "outputs": [],
+   "source": [
+    "def filter_table(table, club_names, pots):\n",
+    "    if isinstance(pots, int):\n",
+    "        pots = [pots]\n",
+    "\n",
+    "    clubs = []\n",
+    "    for pot in pots:\n",
+    "        pot_clubs = pot_clubs_mapping.get(pot)\n",
+    "        clubs.extend(pot_clubs)\n",
+    "\n",
+    "    filtered_table = table.loc[clubs]\n",
+    "    \n",
+    "    if len(club_names) == 1:\n",
+    "        filtered_table.sort_values(\n",
+    "            by=club_names,\n",
+    "            ascending=False,\n",
+    "            inplace=True,\n",
+    "        )\n",
+    "    \n",
+    "    selected_table = filtered_table[club_names]\n",
+    "\n",
+    "    return selected_table"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "kIsvDIrj5Hj5",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:45:00.872710Z",
+     "start_time": "2022-08-25T12:45:00.865410Z"
+    },
+    "id": "kIsvDIrj5Hj5"
+   },
+   "outputs": [],
+   "source": [
+    "club_names = [\n",
+    "    'Real Madrid',\n",
+    "    'Eintracht Frankfurt',\n",
+    "    'Manchester City',\n",
+    "    'Milan',\n",
+    "    'Bayern Munich',\n",
+    "    'Paris Saint-Germain',\n",
+    "    'Porto',\n",
+    "    'Ajax',\n",
+    "]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "vDn5rP1S3xgk",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:45:00.897119Z",
+     "start_time": "2022-08-25T12:45:00.874710Z"
+    },
+    "colab": {
+     "base_uri": "https://localhost:8080/",
+     "height": 300
+    },
+    "id": "vDn5rP1S3xgk",
+    "outputId": "25102635-f29d-48e1-aae2-d56e0e210d0e"
+   },
+   "outputs": [],
+   "source": [
+    "filter_table(\n",
+    "    table,\n",
+    "    club_names,\n",
+    "    pots=1,\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "27996444",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:45:00.918013Z",
+     "start_time": "2022-08-25T12:45:00.899328Z"
+    },
+    "colab": {
+     "base_uri": "https://localhost:8080/",
+     "height": 300
+    },
+    "id": "27996444",
+    "outputId": "ec98fff0-d532-4e83-d59d-b2f7c11bdaaf"
+   },
+   "outputs": [],
+   "source": [
+    "filter_table(\n",
+    "    table,\n",
+    "    club_names,\n",
+    "    pots=2,\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "lFCL7sf63F2z",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:45:00.934475Z",
+     "start_time": "2022-08-25T12:45:00.920089Z"
+    },
+    "colab": {
+     "base_uri": "https://localhost:8080/",
+     "height": 300
+    },
+    "id": "lFCL7sf63F2z",
+    "outputId": "55a5c761-a007-4e74-fbf7-d09f4c7d53e9"
+   },
+   "outputs": [],
+   "source": [
+    "filter_table(\n",
+    "    table,\n",
+    "    club_names,\n",
+    "    pots=3,\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "aZPChIIm3LRD",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:45:00.952709Z",
+     "start_time": "2022-08-25T12:45:00.937365Z"
+    },
+    "colab": {
+     "base_uri": "https://localhost:8080/",
+     "height": 300
+    },
+    "id": "aZPChIIm3LRD",
+    "outputId": "30798b62-4643-46f3-b0a8-f3c5a5abe6c1"
+   },
+   "outputs": [],
+   "source": [
+    "filter_table(\n",
+    "    table,\n",
+    "    club_names,\n",
+    "    pots=4,\n",
+    ")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3efbf78f",
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2022-08-25T12:45:00.979770Z",
+     "start_time": "2022-08-25T12:45:00.954778Z"
+    },
+    "scrolled": true
+   },
+   "outputs": [],
+   "source": [
+    "filter_table(\n",
+    "    table,\n",
+    "    club_names,\n",
+    "    pots=[3, 4],\n",
+    ")"
+   ]
+  }
+ ],
+ "metadata": {
+  "colab": {
+   "collapsed_sections": [],
+   "name": "champions-league-group-stage-draw-simulation.ipynb",
+   "provenance": [],
+   "toc_visible": true
+  },
+  "gpuClass": "standard",
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.9"
+  },
+  "toc": {
+   "base_numbering": 1,
+   "nav_menu": {},
+   "number_sections": true,
+   "sideBar": true,
+   "skip_h1_title": false,
+   "title_cell": "Table of Contents",
+   "title_sidebar": "Contents",
+   "toc_cell": false,
+   "toc_position": {
+    "height": "calc(100% - 180px)",
+    "left": "10px",
+    "top": "150px",
+    "width": "384px"
+   },
+   "toc_section_display": true,
+   "toc_window_display": true
+  },
+  "widgets": {
+   "application/vnd.jupyter.widget-state+json": {
+    "110768c432ee4ba2bb3d7f00c766d1d3": {
+     "model_module": "@jupyter-widgets/base",
+     "model_module_version": "1.2.0",
+     "model_name": "LayoutModel",
+     "state": {
+      "_model_module": "@jupyter-widgets/base",
+      "_model_module_version": "1.2.0",
+      "_model_name": "LayoutModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/base",
+      "_view_module_version": "1.2.0",
+      "_view_name": "LayoutView",
+      "align_content": null,
+      "align_items": null,
+      "align_self": null,
+      "border": null,
+      "bottom": null,
+      "display": null,
+      "flex": null,
+      "flex_flow": null,
+      "grid_area": null,
+      "grid_auto_columns": null,
+      "grid_auto_flow": null,
+      "grid_auto_rows": null,
+      "grid_column": null,
+      "grid_gap": null,
+      "grid_row": null,
+      "grid_template_areas": null,
+      "grid_template_columns": null,
+      "grid_template_rows": null,
+      "height": null,
+      "justify_content": null,
+      "justify_items": null,
+      "left": null,
+      "margin": null,
+      "max_height": null,
+      "max_width": null,
+      "min_height": null,
+      "min_width": null,
+      "object_fit": null,
+      "object_position": null,
+      "order": null,
+      "overflow": null,
+      "overflow_x": null,
+      "overflow_y": null,
+      "padding": null,
+      "right": null,
+      "top": null,
+      "visibility": null,
+      "width": null
+     }
+    },
+    "5590e7b94f9e495585ec011e47aab9e2": {
+     "model_module": "@jupyter-widgets/controls",
+     "model_module_version": "1.5.0",
+     "model_name": "HTMLModel",
+     "state": {
+      "_dom_classes": [],
+      "_model_module": "@jupyter-widgets/controls",
+      "_model_module_version": "1.5.0",
+      "_model_name": "HTMLModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/controls",
+      "_view_module_version": "1.5.0",
+      "_view_name": "HTMLView",
+      "description": "",
+      "description_tooltip": null,
+      "layout": "IPY_MODEL_f5fdd03c257a4a1eae8ea99c49fc3eb8",
+      "placeholder": "​",
+      "style": "IPY_MODEL_99b25700edc543688f16836ad19b7163",
+      "value": "100%"
+     }
+    },
+    "870fe024dea54429a5302f669c2809e6": {
+     "model_module": "@jupyter-widgets/controls",
+     "model_module_version": "1.5.0",
+     "model_name": "FloatProgressModel",
+     "state": {
+      "_dom_classes": [],
+      "_model_module": "@jupyter-widgets/controls",
+      "_model_module_version": "1.5.0",
+      "_model_name": "FloatProgressModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/controls",
+      "_view_module_version": "1.5.0",
+      "_view_name": "ProgressView",
+      "bar_style": "success",
+      "description": "",
+      "description_tooltip": null,
+      "layout": "IPY_MODEL_c9f5b183d836470aa4541647f8b80a34",
+      "max": 100,
+      "min": 0,
+      "orientation": "horizontal",
+      "style": "IPY_MODEL_b3cded899ae14a8dac0d44d55a31fd10",
+      "value": 100
+     }
+    },
+    "8da8a4aaf19b4d04984bdffb85a76a8f": {
+     "model_module": "@jupyter-widgets/controls",
+     "model_module_version": "1.5.0",
+     "model_name": "HBoxModel",
+     "state": {
+      "_dom_classes": [],
+      "_model_module": "@jupyter-widgets/controls",
+      "_model_module_version": "1.5.0",
+      "_model_name": "HBoxModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/controls",
+      "_view_module_version": "1.5.0",
+      "_view_name": "HBoxView",
+      "box_style": "",
+      "children": [
+       "IPY_MODEL_5590e7b94f9e495585ec011e47aab9e2",
+       "IPY_MODEL_870fe024dea54429a5302f669c2809e6",
+       "IPY_MODEL_cb5203cec2db450fae78220eea1f6d43"
+      ],
+      "layout": "IPY_MODEL_110768c432ee4ba2bb3d7f00c766d1d3"
+     }
+    },
+    "970fe2145b3d4d649afb22fd5ab46243": {
+     "model_module": "@jupyter-widgets/controls",
+     "model_module_version": "1.5.0",
+     "model_name": "DescriptionStyleModel",
+     "state": {
+      "_model_module": "@jupyter-widgets/controls",
+      "_model_module_version": "1.5.0",
+      "_model_name": "DescriptionStyleModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/base",
+      "_view_module_version": "1.2.0",
+      "_view_name": "StyleView",
+      "description_width": ""
+     }
+    },
+    "99b25700edc543688f16836ad19b7163": {
+     "model_module": "@jupyter-widgets/controls",
+     "model_module_version": "1.5.0",
+     "model_name": "DescriptionStyleModel",
+     "state": {
+      "_model_module": "@jupyter-widgets/controls",
+      "_model_module_version": "1.5.0",
+      "_model_name": "DescriptionStyleModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/base",
+      "_view_module_version": "1.2.0",
+      "_view_name": "StyleView",
+      "description_width": ""
+     }
+    },
+    "b3cded899ae14a8dac0d44d55a31fd10": {
+     "model_module": "@jupyter-widgets/controls",
+     "model_module_version": "1.5.0",
+     "model_name": "ProgressStyleModel",
+     "state": {
+      "_model_module": "@jupyter-widgets/controls",
+      "_model_module_version": "1.5.0",
+      "_model_name": "ProgressStyleModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/base",
+      "_view_module_version": "1.2.0",
+      "_view_name": "StyleView",
+      "bar_color": null,
+      "description_width": ""
+     }
+    },
+    "bebb89ff66284a6397b790e2f3c98c3a": {
+     "model_module": "@jupyter-widgets/base",
+     "model_module_version": "1.2.0",
+     "model_name": "LayoutModel",
+     "state": {
+      "_model_module": "@jupyter-widgets/base",
+      "_model_module_version": "1.2.0",
+      "_model_name": "LayoutModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/base",
+      "_view_module_version": "1.2.0",
+      "_view_name": "LayoutView",
+      "align_content": null,
+      "align_items": null,
+      "align_self": null,
+      "border": null,
+      "bottom": null,
+      "display": null,
+      "flex": null,
+      "flex_flow": null,
+      "grid_area": null,
+      "grid_auto_columns": null,
+      "grid_auto_flow": null,
+      "grid_auto_rows": null,
+      "grid_column": null,
+      "grid_gap": null,
+      "grid_row": null,
+      "grid_template_areas": null,
+      "grid_template_columns": null,
+      "grid_template_rows": null,
+      "height": null,
+      "justify_content": null,
+      "justify_items": null,
+      "left": null,
+      "margin": null,
+      "max_height": null,
+      "max_width": null,
+      "min_height": null,
+      "min_width": null,
+      "object_fit": null,
+      "object_position": null,
+      "order": null,
+      "overflow": null,
+      "overflow_x": null,
+      "overflow_y": null,
+      "padding": null,
+      "right": null,
+      "top": null,
+      "visibility": null,
+      "width": null
+     }
+    },
+    "c9f5b183d836470aa4541647f8b80a34": {
+     "model_module": "@jupyter-widgets/base",
+     "model_module_version": "1.2.0",
+     "model_name": "LayoutModel",
+     "state": {
+      "_model_module": "@jupyter-widgets/base",
+      "_model_module_version": "1.2.0",
+      "_model_name": "LayoutModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/base",
+      "_view_module_version": "1.2.0",
+      "_view_name": "LayoutView",
+      "align_content": null,
+      "align_items": null,
+      "align_self": null,
+      "border": null,
+      "bottom": null,
+      "display": null,
+      "flex": null,
+      "flex_flow": null,
+      "grid_area": null,
+      "grid_auto_columns": null,
+      "grid_auto_flow": null,
+      "grid_auto_rows": null,
+      "grid_column": null,
+      "grid_gap": null,
+      "grid_row": null,
+      "grid_template_areas": null,
+      "grid_template_columns": null,
+      "grid_template_rows": null,
+      "height": null,
+      "justify_content": null,
+      "justify_items": null,
+      "left": null,
+      "margin": null,
+      "max_height": null,
+      "max_width": null,
+      "min_height": null,
+      "min_width": null,
+      "object_fit": null,
+      "object_position": null,
+      "order": null,
+      "overflow": null,
+      "overflow_x": null,
+      "overflow_y": null,
+      "padding": null,
+      "right": null,
+      "top": null,
+      "visibility": null,
+      "width": null
+     }
+    },
+    "cb5203cec2db450fae78220eea1f6d43": {
+     "model_module": "@jupyter-widgets/controls",
+     "model_module_version": "1.5.0",
+     "model_name": "HTMLModel",
+     "state": {
+      "_dom_classes": [],
+      "_model_module": "@jupyter-widgets/controls",
+      "_model_module_version": "1.5.0",
+      "_model_name": "HTMLModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/controls",
+      "_view_module_version": "1.5.0",
+      "_view_name": "HTMLView",
+      "description": "",
+      "description_tooltip": null,
+      "layout": "IPY_MODEL_bebb89ff66284a6397b790e2f3c98c3a",
+      "placeholder": "​",
+      "style": "IPY_MODEL_970fe2145b3d4d649afb22fd5ab46243",
+      "value": " 100/100 [00:14&lt;00:00,  9.77it/s]"
+     }
+    },
+    "f5fdd03c257a4a1eae8ea99c49fc3eb8": {
+     "model_module": "@jupyter-widgets/base",
+     "model_module_version": "1.2.0",
+     "model_name": "LayoutModel",
+     "state": {
+      "_model_module": "@jupyter-widgets/base",
+      "_model_module_version": "1.2.0",
+      "_model_name": "LayoutModel",
+      "_view_count": null,
+      "_view_module": "@jupyter-widgets/base",
+      "_view_module_version": "1.2.0",
+      "_view_name": "LayoutView",
+      "align_content": null,
+      "align_items": null,
+      "align_self": null,
+      "border": null,
+      "bottom": null,
+      "display": null,
+      "flex": null,
+      "flex_flow": null,
+      "grid_area": null,
+      "grid_auto_columns": null,
+      "grid_auto_flow": null,
+      "grid_auto_rows": null,
+      "grid_column": null,
+      "grid_gap": null,
+      "grid_row": null,
+      "grid_template_areas": null,
+      "grid_template_columns": null,
+      "grid_template_rows": null,
+      "height": null,
+      "justify_content": null,
+      "justify_items": null,
+      "left": null,
+      "margin": null,
+      "max_height": null,
+      "max_width": null,
+      "min_height": null,
+      "min_width": null,
+      "object_fit": null,
+      "object_position": null,
+      "order": null,
+      "overflow": null,
+      "overflow_x": null,
+      "overflow_y": null,
+      "padding": null,
+      "right": null,
+      "top": null,
+      "visibility": null,
+      "width": null
+     }
+    }
+   }
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
