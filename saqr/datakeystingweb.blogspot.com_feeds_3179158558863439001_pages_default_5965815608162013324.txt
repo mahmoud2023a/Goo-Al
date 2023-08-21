@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gd="http://schemas.google.com/g/2005"><id>tag:blogger.com,1999:blog-3179158558863439001</id><updated>2023-08-17T16:57:23.236-07:00</updated><title type='text'>مركز التفعيلات والبيانات</title><subtitle type='html'></subtitle><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://datakeystingweb.blogspot.com/feeds/pages/default'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/3179158558863439001/pages/default'/><link rel='alternate' type='text/html' href='https://datakeystingweb.blogspot.com/'/><author><name>Unknown</name><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author><generator version='7.00' uri='http://www.blogger.com'>Blogger</generator><openSearch:totalResults>4</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><entry><id>tag:blogger.com,1999:blog-3179158558863439001.page-8750832286327924485</id><published>2022-09-05T09:02:00.002-07:00</published><updated>2022-11-14T12:20:38.633-08:00</updated><title type='text'>Active Table Match Auto - تفعيل اضافة جدول المباريات التلقائي</title><content type='html'>&lt;div class=&quot;domains&quot;&gt;
+    &lt;ul&gt;
+      &lt;li&gt;yalla-shoot-pro-new.blogspot.com&lt;/li&gt;               &lt;li&gt;7163638484963937058&lt;/li&gt;   &lt;!-- [ME$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;yalla-shoot-ml.blogspot.com&lt;/li&gt;                    &lt;li&gt;2131950877908596501&lt;/li&gt;   &lt;!-- [--$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;iraqi-in.blogspot.com&lt;/li&gt;                          &lt;li&gt;2131950877908596501&lt;/li&gt;   &lt;!-- [25$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;www.yallashootpro.com&lt;/li&gt;                          &lt;li&gt;4050673097391753777&lt;/li&gt;   &lt;!-- [50$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;www.bth-pro.com&lt;/li&gt;                                &lt;li&gt;3275244628454270000&lt;/li&gt;   &lt;!-- [50$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;www.extragoallive.com&lt;/li&gt;                          &lt;li&gt;4655605714275357766&lt;/li&gt;   &lt;!-- [--$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;kora-fe-live7.blogspot.com&lt;/li&gt;                     &lt;li&gt;141130129668885311&lt;/li&gt;   &lt;!-- [--$] --&gt;    &lt;!-- NOT EXP --&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/3179158558863439001/pages/default/8750832286327924485'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/3179158558863439001/pages/default/8750832286327924485'/><link rel='alternate' type='text/html' href='https://datakeystingweb.blogspot.com/p/active-table-match-auto.html' title='Active Table Match Auto - تفعيل اضافة جدول المباريات التلقائي'/><author><name>Unknown</name><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-3179158558863439001.page-1062454595397311224</id><published>2022-09-03T03:38:00.000-07:00</published><updated>2022-12-18T15:06:08.244-08:00</updated><title type='text'>Account Data - قاعدة بيانات حسابات ستينج ويب</title><content type='html'>&lt;js_script&gt;
+[
+
+{&quot;name&quot;:&quot;Mahmoud Abu Maher&quot;,
+&quot;email&quot;:&quot;dev.mahmoudmaher@gmail.com&quot;,
+&quot;profile_img&quot;:&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJlmimJXy8i81dB-l4N45lyNkPstSW0NtUG2o1O3nTTPisA8qqDTHJls107c9PTAYp7psB37SqwzfOg6G09o7uH8UhpMq38taH0ifEPO9-rDULHbG--ne_S97Zf1SdmeENZ2CB-KUmfkZvvV3RqsoPDV9azsWmfP_AjCXpuDoXZjolqWJg6J4mylwiHw/s1600/Sting.jpg&quot;,
+&quot;dom&quot;:&quot;sting-web.blogspot.com&quot;, 
+&quot;Blog_id&quot;:&quot;المنتج مفعل علي موقعكم بتاريخ - 01/01/2020&quot;,
+&quot;infq&quot;:&quot;مؤسس ستينج ويب&quot;,
+&quot;ver&quot;:&quot;VIP&quot;,
+&quot;link&quot;:&quot;#&quot;,
+&quot;sharh&quot;:&quot;VIP&quot;,
+&quot;linksharh&quot;:&quot;#&quot;,
+&quot;tools&quot;:&quot;VIP&quot;,
+&quot;linktools&quot;:&quot;https://bit.ly/3jemqzW&quot;,
+&quot;key&quot;:&quot;مفعلة&quot;},
+
+{&quot;name&quot;:&quot;Hussain Gawad&quot;,
+&quot;email&quot;:&quot;hossainlraqi@gmail.com&quot;,
+&quot;profile_img&quot;:&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcAU7oKduESvGPIYVqyOeHTg8QrI34Y2TPerdsbperK0sz_QnE95d0mPRcvi6Q0hhUuAMmqvzngvMZ3gU-XOjFQme8ibWrQ9cDeA_nxV8hZGD2QPqa5_9o73c_PhzNgJ-by3iLzg1sTz5Xte4MppaJQISh5-k1nLcsBmQOMrMDXYPoNS9JbSKA64kgew/s980/225013262_545810123443799_1513251147831530893_n.jpg&quot;,
+&quot;dom&quot;:&quot;iraqi-in.blogspot.com&quot;, 
+&quot;Blog_id&quot;:&quot;القالب مفعل علي موقعكم بتاريخ - 12/05/2022&quot;,
+&quot;infq&quot;:&quot;قالب يلا شوت برو - 20$ , جدول المباريات يتحدث تلقائيا - 15$ , ترتيب الفرق والهدافين تتحدث تلقائيا - 25$&quot;,
+&quot;ver&quot;:&quot;قالب يلا شوت برو الجديد - V2.5&quot;,
+&quot;link&quot;:&quot;https://bit.ly/YallaShootPro&quot;,
+&quot;sharh&quot;:&quot;شرح القالب&quot;,
+&quot;linksharh&quot;:&quot;https://sting-web.blogspot.com/p/documentation-yalla-shoot-pro.html&quot;,
+&quot;tools&quot;:&quot;ادوات القالب&quot;,
+&quot;linktools&quot;:&quot;https://sting-web.blogspot.com/p/tools-yalla-shoot-pro.html&quot;,
+&quot;key&quot;:&quot;مفعلة&quot;},
+
+{&quot;name&quot;:&quot;Mohamed Salah&quot;,
+&quot;email&quot;:&quot;farraabuyazan@gmail.com&quot;,
+&quot;profile_img&quot;:&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi02AmPvru0FDSgMdTpl7smzm4Qonn1So-uBX2lyzzfhZVD2rOF9mqqvG3bwkIpMQEK9SSK8j_gSDEaLtr0sQayaR_VmbfV8VIf1ABDjJUzN-xzSKcScbuKvtcxMtETSlBBO3Xtn0plc_Wqyj0sCSx0mgjJknjN6v21-dXxS2e_LmhzdEHKRikyhI2qQ/s960/10401493_701360943257386_8185861510577345411_n.jpg&quot;,
+&quot;dom&quot;:&quot;www.koooralive.live&quot;, 
+&quot;Blog_id&quot;:&quot;القالب مفعل علي موقعكم بتاريخ - 13/07/2022&quot;,
+&quot;infq&quot;:&quot;قالب شوت علي نت&quot;,
+&quot;link&quot;:&quot;#&quot;,
+&quot;key&quot;:&quot;مفعلة&quot;},
+  
+{&quot;name&quot;:&quot;Rabea Sayed&quot;,
+&quot;email&quot;:&quot;rabieeelsayed72@gmail.com&quot;,
+&quot;profile_img&quot;:&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7rhmyyQ5LN2P6KwmESMGCewrxeGmE1WkzQ-SyEg4kZETgtbebBsUZD69zs8CeveqABD8awZ6lDkXKplMGg_eaUnt-oKZBaIG1A9j2oQl51VrY4tGkqnMqj5Q-cMWgCqzb8ZhQT_dBwA2qNDgexAOhRz7CWG5qTLbqu21W09GoSYQf_ZND9DKd4rnB4g/s960/292359438_103098585803701_2733624789073663015_n.jpg&quot;,
+&quot;dom&quot;:&quot;www.yallashootpro.com&quot;, 
+&quot;Blog_id&quot;:&quot;القالب مفعل علي موقعكم بتاريخ - 27/09/2022&quot;,
+&quot;infq&quot;:&quot;قالب يلا شوت برو - 25 $  -  اضافة ترتيب الفرق والهدافين - 20 $&quot;,
+&quot;ver&quot;:&quot;قالب يلا شوت برو الجديد - V2.5&quot;,
+&quot;link&quot;:&quot;https://bit.ly/3jemqzW&quot;,
+&quot;sharh&quot;:&quot;شرح القالب&quot;,
+&quot;linksharh&quot;:&quot;https://sting-web.blogspot.com/p/documentation-yalla-shoot-pro.html&quot;,
+&quot;tools&quot;:&quot;ادوات القالب&quot;,
+&quot;linktools&quot;:&quot;https://sting-web.blogspot.com/p/tools-yalla-shoot-pro.html&quot;,
+&quot;key&quot;:&quot;مفعلة&quot;},
+  
+{&quot;name&quot;:&quot;Hussien Elsayed&quot;,
+&quot;email&quot;:&quot;hussienalsayeddd@gmail.com&quot;,
+&quot;profile_img&quot;:&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU-tp0dp0SBk8iEUxXDxML8zAhs1XV2UXcXEEgvPLqR5KdVQGcsK4Sp4v33m7e0Llt1VMoZozajcmoMBfMwJu3zj_vMr4T-AG9F_xKWFPbFRb4owdC_UJYGnYGi34_VLkdN7YR1NtFzDnzHtc1HoPBCJJK5L2NTdhZtMfksF5E1JTQ9HCs-SonhnY4gA/s960/FB_IMG_1671016876607.jpg&quot;,
+&quot;dom&quot;:&quot;goal.yallashootextra.com&quot;, 
+&quot;Blog_id&quot;:&quot;القالب مفعل علي موقعكم بتاريخ - 24/11/2022&quot;,
+&quot;infq&quot;:&quot;قالب يلا شوت برو - 25 $&quot;,
+&quot;ver&quot;:&quot;قالب يلا شوت برو الجديد - V2.5&quot;,
+&quot;link&quot;:&quot;https://bit.ly/3jemqzW&quot;,
+&quot;sharh&quot;:&quot;شرح القالب&quot;,
+&quot;linksharh&quot;:&quot;https://sting-web.blogspot.com/p/documentation-yalla-shoot-pro.html&quot;,
+&quot;tools&quot;:&quot;ادوات القالب&quot;,
+&quot;linktools&quot;:&quot;https://sting-web.blogspot.com/p/tools-yalla-shoot-pro.html&quot;,
+&quot;key&quot;:&quot;مفعلة&quot;},
+  
+{&quot;name&quot;:&quot;Mohammed Hamdy&quot;,
+&quot;email&quot;:&quot;m.hamdimahmmoud@gmail.com&quot;,
+&quot;profile_img&quot;:&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0JbFfOwQLFhVdDcRdAmhw26Np59ll4eYfpZqBILm-EZBgZ4HJg9H55tIMKC7P-a9VVWURkJlaaZFwMFovOX0im-1-6Yw9eGc0dGlEWeeJJpyxYrfoeSkAzv7KdBg08rAJHE2WpG2KtXtSFWSRFzwgsBucIwQT-wx_6XwKlqtFjltH5e_1SmS2og7ufw/s278/IMG_20221214_133121.jpg&quot;,
+&quot;dom&quot;:&quot;www.tab3live-hd.com&quot;, 
+&quot;Blog_id&quot;:&quot;القالب مفعل علي موقعكم بتاريخ - 05/11/2022&quot;,
+&quot;infq&quot;:&quot;قالب يلا شوت برو - 25 $  -  اضافة ترتيب الفرق والهدافين - 20 $&quot;,
+&quot;ver&quot;:&quot;قالب يلا شوت برو الجديد - V2.5&quot;,
+&quot;link&quot;:&quot;https://bit.ly/3jemqzW&quot;,
+&quot;sharh&quot;:&quot;شرح القالب&quot;,
+&quot;linksharh&quot;:&quot;https://sting-web.blogspot.com/p/documentation-yalla-shoot-pro.html&quot;,
+&quot;tools&quot;:&quot;ادوات القالب&quot;,
+&quot;linktools&quot;:&quot;https://sting-web.blogspot.com/p/tools-yalla-shoot-pro.html&quot;,
+&quot;key&quot;:&quot;مفعلة&quot;}
+  
+
+]
+&lt;/js_script&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/3179158558863439001/pages/default/1062454595397311224'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/3179158558863439001/pages/default/1062454595397311224'/><link rel='alternate' type='text/html' href='https://datakeystingweb.blogspot.com/p/account-data.html' title='Account Data - قاعدة بيانات حسابات ستينج ويب'/><author><name>Unknown</name><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-3179158558863439001.page-5965815608162013324</id><published>2022-09-02T06:59:00.002-07:00</published><updated>2023-08-17T09:19:41.065-07:00</updated><title type='text'>Active Yalla Pro Template - تفعيل قالب يلا شوت برو</title><content type='html'>&lt;div class=&quot;domains&quot;&gt;
+    &lt;ul&gt;
+      &lt;li&gt;yalla-shoot-pro-new.blogspot.com&lt;/li&gt;               &lt;li&gt;7163638484963937058&lt;/li&gt;   &lt;!--[ME-]--&gt;    &lt;!--NOT EXP--&gt;
+      &lt;li&gt;iraqi-in.blogspot.com&lt;/li&gt;                          &lt;li&gt;2131950877908596501&lt;/li&gt;   &lt;!--[25$]--&gt;    &lt;!--NOT EXP--&gt;
+      &lt;li&gt;www.yallashootpro.com&lt;/li&gt;                          &lt;li&gt;4050673097391753777&lt;/li&gt;   &lt;!--[50$]--&gt;    &lt;!--NOT EXP--&gt;
+      &lt;li&gt;www.extragoallive.com&lt;/li&gt;                          &lt;li&gt;4655605714275357766&lt;/li&gt;   &lt;!--[25$]--&gt;    &lt;!--NOT EXP--&gt;
+      &lt;li&gt;www.yallashoot-plus.net&lt;/li&gt;                        &lt;li&gt;2307379736111188306&lt;/li&gt;   &lt;!--[25$]--&gt;    &lt;!--NOT EXP--&gt;
+      &lt;li&gt;www.ylagoal.com&lt;/li&gt;                                &lt;li&gt;5747417140592521024&lt;/li&gt;   &lt;!--[25$]--&gt;    &lt;!--NOT EXP--&gt;
+      &lt;li&gt;www.bth-pro.com&lt;/li&gt;                                &lt;li&gt;3275244628454270000&lt;/li&gt;   &lt;!--[50$]--&gt;    &lt;!--NOT EXP--&gt;
+      &lt;li&gt;www.stars-ball.live&lt;/li&gt;                            &lt;li&gt;3787662343121813412&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!--SYINTEX--&gt;
+      &lt;li&gt;www.almuhaymizi.live&lt;/li&gt;                           &lt;li&gt;1123249674979844028&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!--SYINTEX--&gt;
+      &lt;li&gt;today.yallashootextra.com&lt;/li&gt;                      &lt;li&gt;4446183778490272237&lt;/li&gt;   &lt;!--[25$]--&gt;    &lt;!--NOT EXP--&gt;  
+      &lt;li&gt;new.yallashootextra.com&lt;/li&gt;                        &lt;li&gt;8060782897679416991&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   
+      &lt;li&gt;www.lxcviral.com&lt;/li&gt;                               &lt;li&gt;5224232362922895876&lt;/li&gt;   &lt;!--[10$]--&gt;    &lt;!--NOT EXP--&gt;  
+      &lt;li&gt;www.tab3live-hd.com&lt;/li&gt;                            &lt;li&gt;6686699635091666060&lt;/li&gt;   &lt;!--[50$]--&gt;    &lt;!--NOT EXP--&gt;  
+      &lt;li&gt;www.yallakora1.com&lt;/li&gt;                             &lt;li&gt;5186589338053444269&lt;/li&gt;   &lt;!--[10$]--&gt;    &lt;!--NOT EXP--&gt; 
+      &lt;li&gt;shofna-tv.blogspot.com&lt;/li&gt;                         &lt;li&gt;1725030003942039485&lt;/li&gt;   &lt;!--[70$]--&gt;    &lt;!--NOT EXP--&gt; 
+      &lt;li&gt;www.shofna.net&lt;/li&gt;                                 &lt;li&gt;1725030003942039485&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   
+      &lt;li&gt;onlinekora.tv&lt;/li&gt;                                  &lt;li&gt;5878235472198602016&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   
+      &lt;li&gt;arkoora.onlinekora.tv&lt;/li&gt;                          &lt;li&gt;5878235472198602016&lt;/li&gt;   &lt;!--[70$]--&gt;    &lt;!--NOT EXP--&gt; 
+      &lt;li&gt;koora.livekoora-new.online&lt;/li&gt;                     &lt;li&gt;6424019780062773749&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   
+      &lt;li&gt;a5par.com&lt;/li&gt;                                      &lt;li&gt;2313454019377486394&lt;/li&gt;   &lt;!--[25$]--&gt;    &lt;!--TABDEL [1] NOT EXP--&gt;   
+      &lt;li&gt;www.syrialive.online&lt;/li&gt;                           &lt;li&gt;3984084733470253734&lt;/li&gt;   &lt;!--[25$]--&gt;    &lt;!--NOT EXP--&gt;   
+      &lt;li&gt;koora.koora-shoot.online&lt;/li&gt;                       &lt;li&gt;8848618359044640393&lt;/li&gt;   &lt;!--[70$]--&gt;    &lt;!--NOT EXP--&gt; 
+      &lt;li&gt;www.liveskoora.online&lt;/li&gt;                          &lt;li&gt;5802506256938795697&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   
+      &lt;li&gt;kora.koooora-live.online&lt;/li&gt;                       &lt;li&gt;7457519510782776283&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   
+      &lt;li&gt;www.yalla-shoot-goal.co&lt;/li&gt;                        &lt;li&gt;897325076636002119&lt;/li&gt;    &lt;!--[25$]--&gt;    &lt;!--NOT SEL--&gt;   
+      &lt;li&gt;www.kooraa-live.live&lt;/li&gt;                           &lt;li&gt;6225094734869401680&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!--SYINTEX--&gt;
+      &lt;li&gt;koora-off.blogspot.com&lt;/li&gt;                         &lt;li&gt;4509518098129473274&lt;/li&gt;   &lt;!--[10$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!--KHAMSAT--&gt;
+      &lt;li&gt;www.yallashotlive.com&lt;/li&gt;                          &lt;li&gt;3051254961214753768&lt;/li&gt;   &lt;!--[40$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!--KHAMSAT--&gt;
+      &lt;li&gt;www.yomk3andna.com&lt;/li&gt;                             &lt;li&gt;890445929186384579&lt;/li&gt;    &lt;!--[10$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!-- T AH A--&gt;
+      &lt;li&gt;www.amirosport.live&lt;/li&gt;                            &lt;li&gt;6198645546898418662&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!--SYINTEX--&gt;
+      &lt;li&gt;en-yalla-shoot-pro.blogspot.com&lt;/li&gt;                &lt;li&gt;4602512532774448561&lt;/li&gt;   &lt;!--[ME-]--&gt;    &lt;!--NOT EXP--&gt;
+      &lt;li&gt;www.fctvlive.com&lt;/li&gt;                               &lt;li&gt;646076294723104031&lt;/li&gt;    &lt;!--[40$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!--FB - EN--&gt;
+      &lt;li&gt;www.fctvlive.online&lt;/li&gt;                            &lt;li&gt;2494592286970523619&lt;/li&gt;   &lt;!--[--$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!--FB - EN--&gt;
+      &lt;li&gt;www.dimakora4u.live&lt;/li&gt;                            &lt;li&gt;2176879309202146238&lt;/li&gt;   &lt;!--[10$]--&gt;    &lt;!--NOT EXP--&gt;   &lt;!--KHAMSAT--&gt;
+      &lt;li&gt;koraa.skynews1.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/3179158558863439001/pages/default/5965815608162013324'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/3179158558863439001/pages/default/5965815608162013324'/><link rel='alternate' type='text/html' href='https://datakeystingweb.blogspot.com/p/active-yalla-pro-template.html' title='Active Yalla Pro Template - تفعيل قالب يلا شوت برو'/><author><name>Unknown</name><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry><entry><id>tag:blogger.com,1999:blog-3179158558863439001.page-7743707423485003664</id><published>2022-09-02T04:35:00.000-07:00</published><updated>2023-08-05T05:34:15.860-07:00</updated><title type='text'>Active Yalla Scoure - تفعيل اضافة ترتيب الفرق والهدافين</title><content type='html'>&lt;div class=&quot;domains&quot;&gt;
+    &lt;ul&gt;
+      &lt;li&gt;yalla-shoot-pro-new.blogspot.com&lt;/li&gt;               &lt;li&gt;7163638484963937058&lt;/li&gt;   &lt;!-- [ME$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;yalla-shoot-ml.blogspot.com&lt;/li&gt;                    &lt;li&gt;2131950877908596501&lt;/li&gt;   &lt;!-- [--$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;iraqi-in.blogspot.com&lt;/li&gt;                          &lt;li&gt;2131950877908596501&lt;/li&gt;   &lt;!-- [25$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;www.yallashootpro.com&lt;/li&gt;                          &lt;li&gt;4050673097391753777&lt;/li&gt;   &lt;!-- [50$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;www.bth-pro.com&lt;/li&gt;                                &lt;li&gt;3275244628454270000&lt;/li&gt;   &lt;!-- [50$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;www.yallashoot-plus.net&lt;/li&gt;                        &lt;li&gt;2307379736111188306&lt;/li&gt;   &lt;!-- [--$] --&gt;    &lt;!-- NOT EXP --&gt;
+      &lt;li&gt;127.0.0.1&lt;/li&gt;                      			      &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;domain.com&lt;/li&gt;                                     &lt;li&gt;domain.com&lt;/li&gt;
+      &lt;li&gt;kora-fe-live7.blogspot.com&lt;/li&gt;                     &lt;li&gt;141130129668885311&lt;/li&gt;   &lt;!-- [--$] --&gt;    &lt;!-- NOT EXP --&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/3179158558863439001/pages/default/7743707423485003664'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/3179158558863439001/pages/default/7743707423485003664'/><link rel='alternate' type='text/html' href='https://datakeystingweb.blogspot.com/p/active-yalla.html' title='Active Yalla Scoure - تفعيل اضافة ترتيب الفرق والهدافين'/><author><name>Unknown</name><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='16' height='16' src='https://img1.blogblog.com/img/b16-rounded.gif'/></author></entry></feed>
