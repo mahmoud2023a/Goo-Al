@@ -8,7 +8,7 @@
 	<meta content='width=device-width,minimum-scale=1,initial-scale=1' name='viewport'/>
 	<title>bein1</title>
 	<link href="https://m1.livehd7xc.com/wp-content/plugins/AlbaPlayer//assets/css/style.css?v=11.1" rel="stylesheet">
-	<style>:root{ --aplr-primary:#552a86; --aplr-secondary:#9e1414; --aplr-btn-rds:1px; --aplr-rf-cr:#162133; --aplr-sh-cr:#162133} .jw-wrapper::before, .plyr__video-wrapper::before, #oframeaplr-video::before, #aplr-video.video-js::before{background-image:url();background-position:top right}</style><script>const PlayerPoster='';const PlayerLogo='';const LogoPosition='top-right';</script><script type="text/javascript" src="https://m1.livehd7xc.com/wp-content/plugins/AlbaPlayer//assets/js/albaplayer.js"></script><meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<style>:root{ --aplr-primary:#552a86; --aplr-secondary:#9e1414; --aplr-btn-rds:1px; --aplr-rf-cr:#162133; --aplr-sh-cr:#162133} .jw-wrapper::before, .plyr__video-wrapper::before, #oframeaplr-video::before, #aplr-video.video-js::before{background-image:url();background-position:top right}</style><script>const PlayerPoster='';const PlayerLogo='';const LogoPosition='top-right';</script><script type="text/javascript" src="https://cdn.statically.io/gh/mahmouddx/Goo-Alllllllllllllll/mahmouddx-patch-1/saqr/ABUAHMED.js"></script><meta http-equiv="X-UA-Compatible" content="IE=edge">
 </head>
 <body>
 		<div class="aplr-player-wrapper nbtn-st-1 nbtn-wd-1 nbtn-sz-m nbtn-pos-t rtl">
